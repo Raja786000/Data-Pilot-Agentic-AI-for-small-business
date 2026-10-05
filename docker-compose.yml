@@ -1,0 +1,8 @@
+services:
+  datapilot:
+    build: .
+    ports: ["8000:8000"]
+    volumes: ["datapilot-data:/data"]
+    restart: unless-stopped
+volumes:
+  datapilot-data:

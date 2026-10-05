@@ -1,0 +1,15 @@
+{
+  "name": "datapilot",
+  "private": true,
+  "version": "4.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview --port 4173" },
+  "dependencies": {
+    "@fontsource/atkinson-hyperlegible": "^5.1.0",
+    "@fontsource/fraunces": "^5.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.15.1"
+  },
+  "devDependencies": { "vite": "^6.1.0" }
+}

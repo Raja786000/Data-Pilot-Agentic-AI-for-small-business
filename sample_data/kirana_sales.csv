@@ -1,0 +1,1631 @@
+Bill Date,Bill No,Department,Item Name,Qty,Rate,Net Amount,Purchase Cost,Closing Stock,Customer Type
+01/04/2026,B1001,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",314,Walk-in
+01/04/2026,B1002,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",129,Online
+01/04/2026,B1003,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,207,Regular
+01/04/2026,B1004,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",122,Walk-in
+01/04/2026,B1005,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",703,Walk-in
+01/04/2026,B1006,Snacks,Parle-G,49,₹10.00,₹490.00,₹401.80,2351,Walk-in
+01/04/2026,B1007,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,469,Walk-in
+01/04/2026,B1008,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,43,Walk-in
+01/04/2026,B1009,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,196,Online
+02/04/2026,B1010,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",307,Online
+02/04/2026,B1011,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",124,Online
+02/04/2026,B1012,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,203,Online
+02/04/2026,B1013,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",118,Regular
+02/04/2026,B1014,Dairy,Milk 1L,11,₹66.00,₹726.00,₹660.00,692,Walk-in
+02/04/2026,B1015,Snacks,Parle-G,43,₹10.00,₹430.00,₹352.60,2308,Walk-in
+02/04/2026,B1016,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,457,Regular
+02/04/2026,B1017,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,41,Online
+02/04/2026,B1018,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,187,Regular
+03/04/2026,B1019,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",302,Walk-in
+03/04/2026,B1020,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",120,Regular
+03/04/2026,B1021,Grocery,Toor Dal 1kg,1,₹165.00,₹165.00,₹138.00,202,Regular
+03/04/2026,B1022,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,116,Regular
+03/04/2026,B1023,Dairy,Milk 1L,9,₹66.00,₹594.00,₹540.00,683,Regular
+03/04/2026,B1024,Snacks,Parle-G,46,₹10.00,₹460.00,₹377.20,2262,Online
+03/04/2026,B1025,Snacks,Maggi 4-pack,6,₹56.00,₹336.00,₹282.00,451,Online
+03/04/2026,B1026,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,38,Walk-in
+03/04/2026,B1027,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,182,Online
+04/04/2026,B1028,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",291,Walk-in
+04/04/2026,B1029,Grocery,Basmati Rice 5kg,8,₹610.00,"₹4,880.00","₹4,160.00",112,Regular
+04/04/2026,B1030,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",192,Regular
+04/04/2026,B1031,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",112,Regular
+04/04/2026,B1032,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",659,Walk-in
+04/04/2026,B1033,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,2200,Walk-in
+04/04/2026,B1034,Snacks,Maggi 4-pack,18,₹56.00,"₹1,008.00",₹846.00,433,Walk-in
+04/04/2026,B1035,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",32,Regular
+04/04/2026,B1036,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,176,Regular
+05/04/2026,B1037,Grocery,Atta 5kg,14,₹260.00,"₹3,640.00","₹3,010.00",277,Regular
+05/04/2026,B1038,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",107,Regular
+05/04/2026,B1039,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,187,Online
+05/04/2026,B1040,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",108,Online
+05/04/2026,B1041,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",637,Walk-in
+05/04/2026,B1042,Snacks,Parle-G,49,₹10.00,₹490.00,₹401.80,2151,Regular
+05/04/2026,B1043,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,425,Regular
+05/04/2026,B1044,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,28,Online
+05/04/2026,B1045,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,173,Regular
+06/04/2026,B1046,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",271,Regular
+06/04/2026,B1047,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",102,Online
+06/04/2026,B1048,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,183,Regular
+06/04/2026,B1049,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,106,Online
+06/04/2026,B1050,Dairy,Milk 1L,14,₹66.00,₹924.00,₹840.00,623,Regular
+06/04/2026,B1051,Snacks,Parle-G,45,₹10.00,₹450.00,₹369.00,2106,Online
+06/04/2026,B1052,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,410,Regular
+06/04/2026,B1053,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,25,Walk-in
+06/04/2026,B1054,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,166,Walk-in
+07/04/2026,B1055,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",262,Regular
+07/04/2026,B1056,Grocery,Basmati Rice 5kg,1,₹610.00,₹610.00,₹520.00,101,Regular
+07/04/2026,B1057,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,178,Walk-in
+07/04/2026,B1058,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,103,Online
+07/04/2026,B1059,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",602,Regular
+07/04/2026,B1060,Snacks,Parle-G,54,₹10.00,₹540.00,₹442.80,2052,Regular
+07/04/2026,B1061,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,399,Regular
+07/04/2026,B1062,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,22,Walk-in
+07/04/2026,B1063,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,161,Online
+08/04/2026,B1064,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",250,Online
+08/04/2026,B1065,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",96,Walk-in
+08/04/2026,B1066,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,171,Regular
+08/04/2026,B1067,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",99,Regular
+08/04/2026,B1068,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",581,Walk-in
+08/04/2026,B1069,Snacks,Parle-G,36,₹10.00,₹360.00,₹295.20,2016,Regular
+08/04/2026,B1070,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,392,Regular
+08/04/2026,B1071,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,18,Walk-in
+08/04/2026,B1072,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,155,Regular
+09/04/2026,B1073,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",244,Walk-in
+09/04/2026,B1074,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",92,Regular
+09/04/2026,B1075,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,168,Regular
+09/04/2026,B1076,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",94,Walk-in
+09/04/2026,B1077,Dairy,Milk 1L,10,₹66.00,₹660.00,₹600.00,571,Regular
+09/04/2026,B1078,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,1959,Regular
+09/04/2026,B1079,Snacks,Maggi 4-pack,5,₹56.00,₹280.00,₹235.00,387,Regular
+09/04/2026,B1080,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,16,Online
+09/04/2026,B1081,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,149,Online
+10/04/2026,B1082,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,240,Walk-in
+10/04/2026,B1083,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",88,Regular
+10/04/2026,B1084,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,164,Regular
+10/04/2026,B1085,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,92,Regular
+10/04/2026,B1086,Dairy,Milk 1L,11,₹66.00,₹726.00,₹660.00,560,Walk-in
+10/04/2026,B1087,Snacks,Parle-G,49,₹10.00,₹490.00,₹401.80,1910,Regular
+10/04/2026,B1088,Snacks,Maggi 4-pack,6,₹56.00,₹336.00,₹282.00,381,Regular
+10/04/2026,B1089,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,14,Walk-in
+10/04/2026,B1090,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,145,Walk-in
+11/04/2026,B1091,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",231,Regular
+11/04/2026,B1092,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",83,Regular
+11/04/2026,B1093,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",156,Regular
+11/04/2026,B1094,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,89,Regular
+11/04/2026,B1095,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",539,Online
+11/04/2026,B1096,Snacks,Parle-G,68,₹10.00,₹680.00,₹557.60,1842,Regular
+11/04/2026,B1097,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,369,Regular
+11/04/2026,B1098,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,10,Walk-in
+11/04/2026,B1099,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,140,Walk-in
+12/04/2026,B1100,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",219,Regular
+12/04/2026,B1101,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",79,Online
+12/04/2026,B1102,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",147,Walk-in
+12/04/2026,B1103,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",83,Regular
+12/04/2026,B1104,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,524,Walk-in
+12/04/2026,B1105,Snacks,Parle-G,80,₹10.00,₹800.00,₹656.00,1762,Regular
+12/04/2026,B1106,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,357,Regular
+12/04/2026,B1107,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,98,Regular
+12/04/2026,B1108,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,134,Regular
+13/04/2026,B1109,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",214,Online
+13/04/2026,B1110,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",74,Regular
+13/04/2026,B1111,Grocery,Toor Dal 1kg,13,₹165.00,"₹2,145.00","₹1,794.00",134,Regular
+13/04/2026,B1112,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",79,Walk-in
+13/04/2026,B1113,Dairy,Milk 1L,11,₹66.00,₹726.00,₹660.00,513,Online
+13/04/2026,B1114,Snacks,Parle-G,51,₹10.00,₹510.00,₹418.20,1711,Regular
+13/04/2026,B1115,Snacks,Maggi 4-pack,6,₹56.00,₹336.00,₹282.00,351,Walk-in
+13/04/2026,B1116,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,95,Regular
+13/04/2026,B1117,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,131,Online
+14/04/2026,B1118,Grocery,Atta 5kg,14,₹260.00,"₹3,640.00","₹3,010.00",200,Walk-in
+14/04/2026,B1119,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",71,Regular
+14/04/2026,B1120,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,128,Regular
+14/04/2026,B1121,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",75,Regular
+14/04/2026,B1122,Dairy,Milk 1L,25,₹66.00,"₹1,650.00","₹1,500.00",488,Walk-in
+14/04/2026,B1123,Snacks,Parle-G,55,₹10.00,₹550.00,₹451.00,1656,Regular
+14/04/2026,B1124,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,339,Online
+14/04/2026,B1125,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,93,Walk-in
+14/04/2026,B1126,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,128,Regular
+15/04/2026,B1127,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",192,Regular
+15/04/2026,B1128,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,124,Regular
+15/04/2026,B1129,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,73,Regular
+15/04/2026,B1130,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",471,Online
+15/04/2026,B1131,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,1599,Regular
+15/04/2026,B1132,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,323,Regular
+15/04/2026,B1133,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,89,Online
+15/04/2026,B1134,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,126,Walk-in
+16/04/2026,B1135,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",185,Regular
+16/04/2026,B1136,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",68,Regular
+16/04/2026,B1137,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,118,Regular
+16/04/2026,B1138,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,71,Walk-in
+16/04/2026,B1139,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",450,Online
+16/04/2026,B1140,Snacks,Parle-G,52,₹10.00,₹520.00,₹426.40,1547,Regular
+16/04/2026,B1141,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,314,Walk-in
+16/04/2026,B1142,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,123,Online
+17/04/2026,B1143,Grocery,Atta 5kg,15,₹260.00,"₹3,900.00","₹3,225.00",170,Regular
+17/04/2026,B1144,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",59,Regular
+17/04/2026,B1145,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,115,Walk-in
+17/04/2026,B1146,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,69,Regular
+17/04/2026,B1147,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",432,Online
+17/04/2026,B1148,Snacks,Parle-G,55,₹10.00,₹550.00,₹451.00,1492,Regular
+17/04/2026,B1149,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,304,Regular
+17/04/2026,B1150,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,86,Walk-in
+17/04/2026,B1151,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,119,Walk-in
+18/04/2026,B1152,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",159,Online
+18/04/2026,B1153,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",52,Walk-in
+18/04/2026,B1154,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",106,Walk-in
+18/04/2026,B1155,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",65,Walk-in
+18/04/2026,B1156,Dairy,Milk 1L,27,₹66.00,"₹1,782.00","₹1,620.00",405,Walk-in
+18/04/2026,B1157,Snacks,Parle-G,70,₹10.00,₹700.00,₹574.00,1422,Regular
+18/04/2026,B1158,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,287,Regular
+18/04/2026,B1159,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,81,Regular
+18/04/2026,B1160,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,113,Regular
+19/04/2026,B1161,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",150,Online
+19/04/2026,B1162,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",49,Online
+19/04/2026,B1163,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",97,Walk-in
+19/04/2026,B1164,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",60,Regular
+19/04/2026,B1165,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",384,Regular
+19/04/2026,B1166,Snacks,Parle-G,65,₹10.00,₹650.00,₹533.00,1357,Online
+19/04/2026,B1167,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,270,Regular
+19/04/2026,B1168,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,76,Regular
+19/04/2026,B1169,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,105,Regular
+20/04/2026,B1170,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",143,Regular
+20/04/2026,B1171,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",46,Online
+20/04/2026,B1172,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,91,Regular
+20/04/2026,B1173,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,57,Regular
+20/04/2026,B1174,Dairy,Milk 1L,8,₹66.00,₹528.00,₹480.00,376,Online
+20/04/2026,B1175,Snacks,Parle-G,58,₹10.00,₹580.00,₹475.60,1299,Online
+20/04/2026,B1176,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,261,Online
+20/04/2026,B1177,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,75,Regular
+20/04/2026,B1178,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,100,Online
+21/04/2026,B1179,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,139,Regular
+21/04/2026,B1180,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",42,Online
+21/04/2026,B1181,Grocery,Toor Dal 1kg,1,₹165.00,₹165.00,₹138.00,90,Regular
+21/04/2026,B1182,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",52,Regular
+21/04/2026,B1183,Dairy,Milk 1L,14,₹66.00,₹924.00,₹840.00,362,Online
+21/04/2026,B1184,Snacks,Parle-G,46,₹10.00,₹460.00,₹377.20,1253,Walk-in
+21/04/2026,B1185,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,253,Regular
+21/04/2026,B1186,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,70,Online
+21/04/2026,B1187,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,95,Walk-in
+22/04/2026,B1188,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",131,Regular
+22/04/2026,B1189,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",39,Regular
+22/04/2026,B1190,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,87,Regular
+22/04/2026,B1191,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",47,Regular
+22/04/2026,B1192,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,349,Regular
+22/04/2026,B1193,Snacks,Parle-G,59,₹10.00,₹590.00,₹483.80,1194,Regular
+22/04/2026,B1194,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,239,Regular
+22/04/2026,B1195,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,68,Walk-in
+22/04/2026,B1196,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,93,Online
+23/04/2026,B1197,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",123,Online
+23/04/2026,B1198,Grocery,Basmati Rice 5kg,1,₹610.00,₹610.00,₹520.00,38,Online
+23/04/2026,B1199,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,80,Regular
+23/04/2026,B1200,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",41,Walk-in
+23/04/2026,B1201,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",329,Walk-in
+23/04/2026,B1202,Snacks,Parle-G,51,₹10.00,₹510.00,₹418.20,1143,Regular
+23/04/2026,B1203,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,228,Online
+23/04/2026,B1204,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,65,Regular
+23/04/2026,B1205,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,91,Regular
+24/04/2026,B1206,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",117,Regular
+24/04/2026,B1207,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",31,Regular
+24/04/2026,B1208,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,73,Walk-in
+24/04/2026,B1209,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,39,Regular
+24/04/2026,B1210,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,314,Regular
+24/04/2026,B1211,Snacks,Parle-G,56,₹10.00,₹560.00,₹459.20,1087,Regular
+24/04/2026,B1212,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,219,Walk-in
+24/04/2026,B1213,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,87,Regular
+25/04/2026,B1214,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",107,Online
+25/04/2026,B1215,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",25,Regular
+25/04/2026,B1216,Grocery,Toor Dal 1kg,13,₹165.00,"₹2,145.00","₹1,794.00",60,Walk-in
+25/04/2026,B1217,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",34,Regular
+25/04/2026,B1218,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",295,Regular
+25/04/2026,B1219,Snacks,Parle-G,68,₹10.00,₹680.00,₹557.60,1019,Online
+25/04/2026,B1220,Snacks,Maggi 4-pack,19,₹56.00,"₹1,064.00",₹893.00,200,Regular
+25/04/2026,B1221,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,60,Regular
+25/04/2026,B1222,Household,Dettol Soap,10,₹48.00,₹480.00,₹380.00,77,Online
+26/04/2026,B1223,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",101,Regular
+26/04/2026,B1224,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",21,Walk-in
+26/04/2026,B1225,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",51,Regular
+26/04/2026,B1226,Dairy,Amul Butter 500g,8,₹285.00,"₹2,280.00","₹2,040.00",26,Regular
+26/04/2026,B1227,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,279,Regular
+26/04/2026,B1228,Snacks,Parle-G,95,₹10.00,₹950.00,₹779.00,924,Regular
+26/04/2026,B1229,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,186,Walk-in
+26/04/2026,B1230,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,57,Regular
+26/04/2026,B1231,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,68,Regular
+27/04/2026,B1232,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",91,Regular
+27/04/2026,B1233,Grocery,Basmati Rice 5kg,8,₹610.00,"₹4,880.00","₹4,160.00",13,Online
+27/04/2026,B1234,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,45,Regular
+27/04/2026,B1235,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,25,Walk-in
+27/04/2026,B1236,Dairy,Milk 1L,11,₹66.00,₹726.00,₹660.00,268,Walk-in
+27/04/2026,B1237,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,867,Online
+27/04/2026,B1238,Snacks,Maggi 4-pack,5,₹56.00,₹280.00,₹235.00,181,Online
+27/04/2026,B1239,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,56,Online
+27/04/2026,B1240,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,64,Walk-in
+28/04/2026,B1241,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",81,Walk-in
+28/04/2026,B1242,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",141,Online
+28/04/2026,B1243,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,41,Walk-in
+28/04/2026,B1244,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",19,Regular
+28/04/2026,B1245,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,253,Regular
+28/04/2026,B1246,Snacks,Parle-G,61,₹10.00,₹610.00,₹500.20,806,Walk-in
+28/04/2026,B1247,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,170,Regular
+28/04/2026,B1248,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,54,Regular
+28/04/2026,B1249,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,56,Regular
+29/04/2026,B1250,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",76,Online
+29/04/2026,B1251,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",135,Regular
+29/04/2026,B1252,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,37,Online
+29/04/2026,B1253,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,16,Regular
+29/04/2026,B1254,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",236,Walk-in
+29/04/2026,B1255,Snacks,Parle-G,53,₹10.00,₹530.00,₹434.60,753,Online
+29/04/2026,B1256,Snacks,Maggi 4-pack,4,₹56.00,₹224.00,₹188.00,166,Online
+29/04/2026,B1257,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,51,Regular
+30/04/2026,B1258,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",66,Regular
+30/04/2026,B1259,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",131,Online
+30/04/2026,B1260,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",26,Regular
+30/04/2026,B1261,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,15,Regular
+30/04/2026,B1262,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,221,Walk-in
+30/04/2026,B1263,Snacks,Parle-G,47,₹10.00,₹470.00,₹385.40,706,Online
+30/04/2026,B1264,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,159,Walk-in
+30/04/2026,B1265,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,48,Regular
+30/04/2026,B1266,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,48,Regular
+01/05/2026,B1267,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",58,Online
+01/05/2026,B1268,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",128,Walk-in
+01/05/2026,B1269,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,22,Online
+01/05/2026,B1270,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,12,Walk-in
+01/05/2026,B1271,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",200,Walk-in
+01/05/2026,B1272,Snacks,Parle-G,50,₹10.00,₹500.00,₹410.00,656,Online
+01/05/2026,B1273,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,149,Walk-in
+01/05/2026,B1274,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,45,Online
+01/05/2026,B1275,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,44,Walk-in
+02/05/2026,B1276,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",49,Walk-in
+02/05/2026,B1277,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",121,Regular
+02/05/2026,B1278,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",223,Regular
+02/05/2026,B1279,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,10,Walk-in
+02/05/2026,B1280,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",176,Online
+02/05/2026,B1281,Snacks,Parle-G,71,₹10.00,₹710.00,₹582.20,585,Walk-in
+02/05/2026,B1282,Snacks,Maggi 4-pack,22,₹56.00,"₹1,232.00","₹1,034.00",127,Regular
+02/05/2026,B1283,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,43,Online
+02/05/2026,B1284,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,39,Regular
+03/05/2026,B1285,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",42,Regular
+03/05/2026,B1286,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",112,Online
+03/05/2026,B1287,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,217,Online
+03/05/2026,B1288,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,8,Regular
+03/05/2026,B1289,Dairy,Milk 1L,14,₹66.00,₹924.00,₹840.00,162,Regular
+03/05/2026,B1290,Snacks,Parle-G,70,₹10.00,₹700.00,₹574.00,515,Online
+03/05/2026,B1291,Snacks,Maggi 4-pack,20,₹56.00,"₹1,120.00",₹940.00,107,Regular
+03/05/2026,B1292,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",37,Regular
+03/05/2026,B1293,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,37,Regular
+04/05/2026,B1294,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",35,Online
+04/05/2026,B1295,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",109,Regular
+04/05/2026,B1296,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,214,Regular
+04/05/2026,B1297,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",109,Online
+04/05/2026,B1298,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",145,Regular
+04/05/2026,B1299,Snacks,Parle-G,53,₹10.00,₹530.00,₹434.60,462,Online
+04/05/2026,B1300,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,93,Regular
+04/05/2026,B1301,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",31,Regular
+04/05/2026,B1302,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,35,Online
+05/05/2026,B1303,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",28,Online
+05/05/2026,B1304,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",103,Regular
+05/05/2026,B1305,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,207,Walk-in
+05/05/2026,B1306,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",105,Walk-in
+05/05/2026,B1307,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",123,Walk-in
+05/05/2026,B1308,Snacks,Parle-G,49,₹10.00,₹490.00,₹401.80,413,Regular
+05/05/2026,B1309,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,77,Regular
+05/05/2026,B1310,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,28,Online
+05/05/2026,B1311,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,33,Online
+06/05/2026,B1312,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",260,Online
+06/05/2026,B1313,Grocery,Basmati Rice 5kg,1,₹610.00,₹610.00,₹520.00,102,Online
+06/05/2026,B1314,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,202,Regular
+06/05/2026,B1315,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",100,Regular
+06/05/2026,B1316,Dairy,Milk 1L,7,₹66.00,₹462.00,₹420.00,116,Regular
+06/05/2026,B1317,Snacks,Parle-G,58,₹10.00,₹580.00,₹475.60,355,Regular
+06/05/2026,B1318,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,68,Regular
+06/05/2026,B1319,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,24,Online
+06/05/2026,B1320,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,30,Regular
+07/05/2026,B1321,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,256,Walk-in
+07/05/2026,B1322,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",96,Regular
+07/05/2026,B1323,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,195,Walk-in
+07/05/2026,B1324,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",94,Online
+07/05/2026,B1325,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",98,Regular
+07/05/2026,B1326,Snacks,Parle-G,45,₹10.00,₹450.00,₹369.00,310,Regular
+07/05/2026,B1327,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,55,Walk-in
+07/05/2026,B1328,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,20,Regular
+07/05/2026,B1329,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,25,Regular
+08/05/2026,B1330,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",248,Walk-in
+08/05/2026,B1331,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",94,Regular
+08/05/2026,B1332,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",187,Regular
+08/05/2026,B1333,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,93,Walk-in
+08/05/2026,B1334,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,625,Online
+08/05/2026,B1335,Snacks,Parle-G,46,₹10.00,₹460.00,₹377.20,2064,Regular
+08/05/2026,B1336,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,42,Online
+08/05/2026,B1337,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,17,Regular
+08/05/2026,B1338,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,21,Walk-in
+09/05/2026,B1339,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",238,Walk-in
+09/05/2026,B1340,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",92,Regular
+09/05/2026,B1341,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",176,Online
+09/05/2026,B1342,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",88,Walk-in
+09/05/2026,B1343,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,610,Online
+09/05/2026,B1344,Snacks,Parle-G,72,₹10.00,₹720.00,₹590.40,1992,Walk-in
+09/05/2026,B1345,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,387,Walk-in
+09/05/2026,B1346,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,103,Regular
+09/05/2026,B1347,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,166,Walk-in
+10/05/2026,B1348,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",231,Regular
+10/05/2026,B1349,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",88,Walk-in
+10/05/2026,B1350,Grocery,Toor Dal 1kg,12,₹165.00,"₹1,980.00","₹1,656.00",164,Walk-in
+10/05/2026,B1351,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",81,Regular
+10/05/2026,B1352,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",588,Regular
+10/05/2026,B1353,Snacks,Parle-G,77,₹10.00,₹770.00,₹631.40,1915,Regular
+10/05/2026,B1354,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,380,Regular
+10/05/2026,B1355,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,101,Walk-in
+10/05/2026,B1356,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,163,Regular
+11/05/2026,B1357,Grocery,Atta 5kg,3,₹260.00,₹780.00,₹645.00,228,Walk-in
+11/05/2026,B1358,Grocery,Basmati Rice 5kg,1,₹610.00,₹610.00,₹520.00,87,Walk-in
+11/05/2026,B1359,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",155,Walk-in
+11/05/2026,B1360,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",77,Regular
+11/05/2026,B1361,Dairy,Milk 1L,11,₹66.00,₹726.00,₹660.00,577,Regular
+11/05/2026,B1362,Snacks,Parle-G,52,₹10.00,₹520.00,₹426.40,1863,Regular
+11/05/2026,B1363,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,369,Online
+11/05/2026,B1364,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,98,Online
+11/05/2026,B1365,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,161,Regular
+12/05/2026,B1366,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,224,Walk-in
+12/05/2026,B1367,Grocery,Basmati Rice 5kg,8,₹610.00,"₹4,880.00","₹4,160.00",79,Regular
+12/05/2026,B1368,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",144,Regular
+12/05/2026,B1369,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,76,Online
+12/05/2026,B1370,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,565,Walk-in
+12/05/2026,B1371,Snacks,Parle-G,47,₹10.00,₹470.00,₹385.40,1816,Regular
+12/05/2026,B1372,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,359,Regular
+12/05/2026,B1373,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,97,Regular
+12/05/2026,B1374,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,157,Regular
+13/05/2026,B1375,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,220,Online
+13/05/2026,B1376,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",74,Walk-in
+13/05/2026,B1377,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,140,Walk-in
+13/05/2026,B1378,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",72,Regular
+13/05/2026,B1379,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",545,Online
+13/05/2026,B1380,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,1759,Online
+13/05/2026,B1381,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,351,Online
+13/05/2026,B1382,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,94,Walk-in
+13/05/2026,B1383,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,152,Regular
+14/05/2026,B1384,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",214,Regular
+14/05/2026,B1385,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",70,Online
+14/05/2026,B1386,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,133,Online
+14/05/2026,B1387,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",68,Regular
+14/05/2026,B1388,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,533,Regular
+14/05/2026,B1389,Snacks,Parle-G,54,₹10.00,₹540.00,₹442.80,1705,Online
+14/05/2026,B1390,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,338,Regular
+14/05/2026,B1391,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,92,Walk-in
+14/05/2026,B1392,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,147,Regular
+15/05/2026,B1393,Grocery,Atta 5kg,13,₹260.00,"₹3,380.00","₹2,795.00",201,Regular
+15/05/2026,B1394,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",68,Regular
+15/05/2026,B1395,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,130,Online
+15/05/2026,B1396,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,65,Walk-in
+15/05/2026,B1397,Dairy,Milk 1L,9,₹66.00,₹594.00,₹540.00,524,Regular
+15/05/2026,B1398,Snacks,Parle-G,64,₹10.00,₹640.00,₹524.80,1641,Regular
+15/05/2026,B1399,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,325,Regular
+15/05/2026,B1400,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,91,Online
+15/05/2026,B1401,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,144,Online
+16/05/2026,B1402,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",192,Regular
+16/05/2026,B1403,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",63,Regular
+16/05/2026,B1404,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",121,Online
+16/05/2026,B1405,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,62,Regular
+16/05/2026,B1406,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",504,Regular
+16/05/2026,B1407,Snacks,Parle-G,69,₹10.00,₹690.00,₹565.80,1572,Regular
+16/05/2026,B1408,Snacks,Maggi 4-pack,18,₹56.00,"₹1,008.00",₹846.00,307,Online
+16/05/2026,B1409,Household,Surf Excel 1kg,7,₹210.00,"₹1,470.00","₹1,204.00",84,Walk-in
+16/05/2026,B1410,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,139,Regular
+17/05/2026,B1411,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",180,Online
+17/05/2026,B1412,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",58,Walk-in
+17/05/2026,B1413,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,114,Regular
+17/05/2026,B1414,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,59,Online
+17/05/2026,B1415,Dairy,Milk 1L,27,₹66.00,"₹1,782.00","₹1,620.00",477,Walk-in
+17/05/2026,B1416,Snacks,Parle-G,69,₹10.00,₹690.00,₹565.80,1503,Online
+17/05/2026,B1417,Snacks,Maggi 4-pack,18,₹56.00,"₹1,008.00",₹846.00,289,Regular
+17/05/2026,B1418,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,81,Walk-in
+17/05/2026,B1419,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,133,Regular
+18/05/2026,B1420,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",174,Online
+18/05/2026,B1421,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",54,Online
+18/05/2026,B1422,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",103,Regular
+18/05/2026,B1423,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",55,Regular
+18/05/2026,B1424,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",460,Walk-in
+18/05/2026,B1425,Snacks,Parle-G,51,₹10.00,₹510.00,₹418.20,1452,Regular
+18/05/2026,B1426,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,281,Regular
+18/05/2026,B1427,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,77,Regular
+18/05/2026,B1428,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,127,Walk-in
+19/05/2026,B1429,Grocery,Atta 5kg,3,₹260.00,₹780.00,₹645.00,171,Regular
+19/05/2026,B1430,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",50,Walk-in
+19/05/2026,B1431,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,96,Regular
+19/05/2026,B1432,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,52,Regular
+19/05/2026,B1433,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",441,Regular
+19/05/2026,B1434,Snacks,Parle-G,54,₹10.00,₹540.00,₹442.80,1398,Regular
+19/05/2026,B1435,Snacks,Maggi 4-pack,20,₹56.00,"₹1,120.00",₹940.00,261,Regular
+19/05/2026,B1436,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,76,Online
+19/05/2026,B1437,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,122,Walk-in
+20/05/2026,B1438,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",163,Online
+20/05/2026,B1439,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",87,Regular
+20/05/2026,B1440,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",45,Walk-in
+20/05/2026,B1441,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",419,Regular
+20/05/2026,B1442,Snacks,Parle-G,41,₹10.00,₹410.00,₹336.20,1357,Regular
+20/05/2026,B1443,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,252,Online
+20/05/2026,B1444,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,73,Walk-in
+20/05/2026,B1445,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,116,Walk-in
+21/05/2026,B1446,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,159,Regular
+21/05/2026,B1447,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",44,Regular
+21/05/2026,B1448,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",79,Online
+21/05/2026,B1449,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,42,Online
+21/05/2026,B1450,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,406,Regular
+21/05/2026,B1451,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,1295,Online
+21/05/2026,B1452,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,242,Walk-in
+21/05/2026,B1453,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,70,Regular
+21/05/2026,B1454,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,110,Online
+22/05/2026,B1455,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",150,Walk-in
+22/05/2026,B1456,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",39,Regular
+22/05/2026,B1457,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",68,Regular
+22/05/2026,B1458,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",37,Regular
+22/05/2026,B1459,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,390,Regular
+22/05/2026,B1460,Snacks,Parle-G,45,₹10.00,₹450.00,₹369.00,1250,Regular
+22/05/2026,B1461,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,233,Regular
+22/05/2026,B1462,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,104,Walk-in
+23/05/2026,B1463,Grocery,Atta 5kg,13,₹260.00,"₹3,380.00","₹2,795.00",137,Walk-in
+23/05/2026,B1464,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",32,Online
+23/05/2026,B1465,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,63,Regular
+23/05/2026,B1466,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",33,Online
+23/05/2026,B1467,Dairy,Milk 1L,23,₹66.00,"₹1,518.00","₹1,380.00",367,Walk-in
+23/05/2026,B1468,Snacks,Parle-G,74,₹10.00,₹740.00,₹606.80,1176,Regular
+23/05/2026,B1469,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,217,Regular
+23/05/2026,B1470,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,67,Online
+23/05/2026,B1471,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,95,Walk-in
+24/05/2026,B1472,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",129,Regular
+24/05/2026,B1473,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",27,Regular
+24/05/2026,B1474,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,56,Walk-in
+24/05/2026,B1475,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,30,Regular
+24/05/2026,B1476,Dairy,Milk 1L,23,₹66.00,"₹1,518.00","₹1,380.00",344,Online
+24/05/2026,B1477,Snacks,Parle-G,84,₹10.00,₹840.00,₹688.80,1092,Regular
+24/05/2026,B1478,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,203,Online
+24/05/2026,B1479,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,64,Walk-in
+24/05/2026,B1480,Household,Dettol Soap,11,₹48.00,₹528.00,₹418.00,84,Walk-in
+25/05/2026,B1481,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",117,Online
+25/05/2026,B1482,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",21,Regular
+25/05/2026,B1483,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",45,Online
+25/05/2026,B1484,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,28,Walk-in
+25/05/2026,B1485,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",322,Regular
+25/05/2026,B1486,Snacks,Parle-G,59,₹10.00,₹590.00,₹483.80,1033,Regular
+25/05/2026,B1487,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,191,Regular
+25/05/2026,B1488,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,76,Online
+26/05/2026,B1489,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",108,Regular
+26/05/2026,B1490,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",150,Online
+26/05/2026,B1491,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,41,Regular
+26/05/2026,B1492,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,25,Walk-in
+26/05/2026,B1493,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,306,Regular
+26/05/2026,B1494,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,971,Walk-in
+26/05/2026,B1495,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,181,Walk-in
+26/05/2026,B1496,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,60,Walk-in
+26/05/2026,B1497,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,69,Walk-in
+27/05/2026,B1498,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",101,Regular
+27/05/2026,B1499,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",146,Regular
+27/05/2026,B1500,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,35,Regular
+27/05/2026,B1501,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,22,Online
+27/05/2026,B1502,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",289,Regular
+27/05/2026,B1503,Snacks,Parle-G,77,₹10.00,₹770.00,₹631.40,894,Walk-in
+27/05/2026,B1504,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,172,Regular
+27/05/2026,B1505,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,59,Regular
+27/05/2026,B1506,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,62,Online
+28/05/2026,B1507,Grocery,Atta 5kg,16,₹260.00,"₹4,160.00","₹3,440.00",85,Walk-in
+28/05/2026,B1508,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",143,Walk-in
+28/05/2026,B1509,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,31,Regular
+28/05/2026,B1510,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",18,Online
+28/05/2026,B1511,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",268,Regular
+28/05/2026,B1512,Snacks,Parle-G,60,₹10.00,₹600.00,₹492.00,834,Walk-in
+28/05/2026,B1513,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,164,Regular
+28/05/2026,B1514,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,57,Regular
+28/05/2026,B1515,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,58,Walk-in
+29/05/2026,B1516,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,81,Online
+29/05/2026,B1517,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",138,Online
+29/05/2026,B1518,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,27,Regular
+29/05/2026,B1519,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",11,Regular
+29/05/2026,B1520,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,255,Regular
+29/05/2026,B1521,Snacks,Parle-G,59,₹10.00,₹590.00,₹483.80,775,Regular
+29/05/2026,B1522,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,154,Regular
+29/05/2026,B1523,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,55,Online
+29/05/2026,B1524,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,54,Online
+30/05/2026,B1525,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",75,Online
+30/05/2026,B1526,Grocery,Basmati Rice 5kg,12,₹610.00,"₹7,320.00","₹6,240.00",126,Online
+30/05/2026,B1527,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",19,Online
+30/05/2026,B1528,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",6,Regular
+30/05/2026,B1529,Dairy,Milk 1L,26,₹66.00,"₹1,716.00","₹1,560.00",229,Regular
+30/05/2026,B1530,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,713,Regular
+30/05/2026,B1531,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,145,Regular
+30/05/2026,B1532,Household,Surf Excel 1kg,7,₹210.00,"₹1,470.00","₹1,204.00",48,Walk-in
+30/05/2026,B1533,Household,Dettol Soap,10,₹48.00,₹480.00,₹380.00,44,Online
+31/05/2026,B1534,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",67,Walk-in
+31/05/2026,B1535,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",122,Walk-in
+31/05/2026,B1536,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",9,Regular
+31/05/2026,B1537,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",2,Regular
+31/05/2026,B1538,Dairy,Milk 1L,23,₹66.00,"₹1,518.00","₹1,380.00",206,Walk-in
+31/05/2026,B1539,Snacks,Parle-G,71,₹10.00,₹710.00,₹582.20,642,Regular
+31/05/2026,B1540,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,134,Walk-in
+31/05/2026,B1541,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,45,Walk-in
+31/05/2026,B1542,Household,Dettol Soap,11,₹48.00,₹528.00,₹418.00,33,Regular
+01/06/2026,B1543,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",62,Regular
+01/06/2026,B1544,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",119,Online
+01/06/2026,B1545,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,3,Regular
+01/06/2026,B1546,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,0,Walk-in
+01/06/2026,B1547,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,193,Regular
+01/06/2026,B1548,Snacks,Parle-G,67,₹10.00,₹670.00,₹549.40,575,Regular
+01/06/2026,B1549,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,122,Online
+01/06/2026,B1550,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,44,Regular
+01/06/2026,B1551,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,30,Regular
+02/06/2026,B1552,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",53,Online
+02/06/2026,B1553,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",117,Regular
+02/06/2026,B1554,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",0,Walk-in
+02/06/2026,B1555,Dairy,Milk 1L,14,₹66.00,₹924.00,₹840.00,179,Regular
+02/06/2026,B1556,Snacks,Parle-G,67,₹10.00,₹670.00,₹549.40,508,Online
+02/06/2026,B1557,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,113,Walk-in
+02/06/2026,B1558,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,41,Online
+02/06/2026,B1559,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,26,Regular
+03/06/2026,B1560,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",48,Regular
+03/06/2026,B1561,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",113,Regular
+03/06/2026,B1562,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,0,Online
+03/06/2026,B1563,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,0,Walk-in
+03/06/2026,B1564,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",155,Regular
+03/06/2026,B1565,Snacks,Parle-G,51,₹10.00,₹510.00,₹418.20,457,Online
+03/06/2026,B1566,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,101,Regular
+03/06/2026,B1567,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,36,Walk-in
+03/06/2026,B1568,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,23,Regular
+04/06/2026,B1569,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,44,Regular
+04/06/2026,B1570,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",111,Regular
+04/06/2026,B1571,Grocery,Toor Dal 1kg,12,₹165.00,"₹1,980.00","₹1,656.00",210,Online
+04/06/2026,B1572,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",0,Regular
+04/06/2026,B1573,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,139,Regular
+04/06/2026,B1574,Snacks,Parle-G,50,₹10.00,₹500.00,₹410.00,407,Walk-in
+04/06/2026,B1575,Snacks,Maggi 4-pack,20,₹56.00,"₹1,120.00",₹940.00,81,Regular
+04/06/2026,B1576,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,34,Walk-in
+04/06/2026,B1577,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,19,Walk-in
+05/06/2026,B1578,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",36,Online
+05/06/2026,B1579,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",104,Walk-in
+05/06/2026,B1580,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",202,Online
+05/06/2026,B1581,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",0,Online
+05/06/2026,B1582,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",121,Regular
+05/06/2026,B1583,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,2150,Regular
+05/06/2026,B1584,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,71,Walk-in
+05/06/2026,B1585,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,31,Regular
+05/06/2026,B1586,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,16,Walk-in
+06/06/2026,B1587,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",27,Regular
+06/06/2026,B1588,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",99,Regular
+06/06/2026,B1589,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,195,Regular
+06/06/2026,B1590,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,108,Walk-in
+06/06/2026,B1591,Dairy,Milk 1L,26,₹66.00,"₹1,716.00","₹1,560.00",635,Walk-in
+06/06/2026,B1592,Snacks,Parle-G,65,₹10.00,₹650.00,₹533.00,2085,Online
+06/06/2026,B1593,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,60,Walk-in
+06/06/2026,B1594,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",25,Walk-in
+06/06/2026,B1595,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,11,Walk-in
+07/06/2026,B1596,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",258,Walk-in
+07/06/2026,B1597,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",90,Regular
+07/06/2026,B1598,Grocery,Toor Dal 1kg,12,₹165.00,"₹1,980.00","₹1,656.00",183,Regular
+07/06/2026,B1599,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,107,Regular
+07/06/2026,B1600,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,620,Regular
+07/06/2026,B1601,Snacks,Parle-G,65,₹10.00,₹650.00,₹533.00,2020,Regular
+07/06/2026,B1602,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,49,Regular
+07/06/2026,B1603,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,24,Regular
+07/06/2026,B1604,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,2,Regular
+08/06/2026,B1605,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",247,Walk-in
+08/06/2026,B1606,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",85,Online
+08/06/2026,B1607,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",174,Online
+08/06/2026,B1608,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",103,Regular
+08/06/2026,B1609,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,605,Walk-in
+08/06/2026,B1610,Snacks,Parle-G,59,₹10.00,₹590.00,₹483.80,1961,Online
+08/06/2026,B1611,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,37,Walk-in
+08/06/2026,B1612,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",18,Regular
+08/06/2026,B1613,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,0,Regular
+09/06/2026,B1614,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,243,Regular
+09/06/2026,B1615,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",82,Regular
+09/06/2026,B1616,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",166,Walk-in
+09/06/2026,B1617,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",99,Regular
+09/06/2026,B1618,Dairy,Milk 1L,10,₹66.00,₹660.00,₹600.00,595,Regular
+09/06/2026,B1619,Snacks,Parle-G,55,₹10.00,₹550.00,₹451.00,1906,Regular
+09/06/2026,B1620,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,20,Regular
+09/06/2026,B1621,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,16,Regular
+09/06/2026,B1622,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,150,Regular
+10/06/2026,B1623,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",238,Regular
+10/06/2026,B1624,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",77,Regular
+10/06/2026,B1625,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,163,Regular
+10/06/2026,B1626,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",94,Regular
+10/06/2026,B1627,Dairy,Milk 1L,26,₹66.00,"₹1,716.00","₹1,560.00",569,Walk-in
+10/06/2026,B1628,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,1849,Online
+10/06/2026,B1629,Snacks,Maggi 4-pack,3,₹56.00,₹168.00,₹141.00,17,Regular
+10/06/2026,B1630,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,14,Online
+10/06/2026,B1631,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,145,Walk-in
+11/06/2026,B1632,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",229,Walk-in
+11/06/2026,B1633,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",70,Online
+11/06/2026,B1634,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",152,Regular
+11/06/2026,B1635,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,91,Regular
+11/06/2026,B1636,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,554,Regular
+11/06/2026,B1637,Snacks,Parle-G,64,₹10.00,₹640.00,₹524.80,1785,Regular
+11/06/2026,B1638,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,8,Walk-in
+11/06/2026,B1639,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,13,Regular
+11/06/2026,B1640,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,142,Regular
+12/06/2026,B1641,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",220,Regular
+12/06/2026,B1642,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",68,Walk-in
+12/06/2026,B1643,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",143,Online
+12/06/2026,B1644,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",87,Walk-in
+12/06/2026,B1645,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,539,Regular
+12/06/2026,B1646,Snacks,Parle-G,44,₹10.00,₹440.00,₹360.80,1741,Regular
+12/06/2026,B1647,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,360,Regular
+12/06/2026,B1648,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,10,Regular
+12/06/2026,B1649,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,136,Online
+13/06/2026,B1650,Grocery,Atta 5kg,15,₹260.00,"₹3,900.00","₹3,225.00",205,Regular
+13/06/2026,B1651,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",65,Online
+13/06/2026,B1652,Grocery,Toor Dal 1kg,13,₹165.00,"₹2,145.00","₹1,794.00",130,Regular
+13/06/2026,B1653,Dairy,Amul Butter 500g,9,₹285.00,"₹2,565.00","₹2,295.00",78,Regular
+13/06/2026,B1654,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",521,Walk-in
+13/06/2026,B1655,Snacks,Parle-G,79,₹10.00,₹790.00,₹647.80,1662,Regular
+13/06/2026,B1656,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,348,Walk-in
+13/06/2026,B1657,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,7,Regular
+13/06/2026,B1658,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,127,Regular
+14/06/2026,B1659,Grocery,Atta 5kg,14,₹260.00,"₹3,640.00","₹3,010.00",191,Regular
+14/06/2026,B1660,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",59,Regular
+14/06/2026,B1661,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",120,Regular
+14/06/2026,B1662,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",74,Walk-in
+14/06/2026,B1663,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",497,Regular
+14/06/2026,B1664,Snacks,Parle-G,64,₹10.00,₹640.00,₹524.80,1598,Regular
+14/06/2026,B1665,Snacks,Maggi 4-pack,21,₹56.00,"₹1,176.00",₹987.00,327,Online
+14/06/2026,B1666,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,3,Walk-in
+14/06/2026,B1667,Household,Dettol Soap,10,₹48.00,₹480.00,₹380.00,117,Regular
+15/06/2026,B1668,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",185,Regular
+15/06/2026,B1669,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",53,Walk-in
+15/06/2026,B1670,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,117,Regular
+15/06/2026,B1671,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",69,Online
+15/06/2026,B1672,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",475,Online
+15/06/2026,B1673,Snacks,Parle-G,49,₹10.00,₹490.00,₹401.80,1549,Online
+15/06/2026,B1674,Snacks,Maggi 4-pack,5,₹56.00,₹280.00,₹235.00,322,Walk-in
+15/06/2026,B1675,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,1,Walk-in
+15/06/2026,B1676,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,111,Regular
+16/06/2026,B1677,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",177,Walk-in
+16/06/2026,B1678,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",46,Regular
+16/06/2026,B1679,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,111,Regular
+16/06/2026,B1680,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,67,Online
+16/06/2026,B1681,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",456,Walk-in
+16/06/2026,B1682,Snacks,Parle-G,52,₹10.00,₹520.00,₹426.40,1497,Online
+16/06/2026,B1683,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,314,Online
+16/06/2026,B1684,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,104,Regular
+17/06/2026,B1685,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",172,Walk-in
+17/06/2026,B1686,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",44,Regular
+17/06/2026,B1687,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",101,Regular
+17/06/2026,B1688,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",60,Walk-in
+17/06/2026,B1689,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",436,Regular
+17/06/2026,B1690,Snacks,Parle-G,68,₹10.00,₹680.00,₹557.60,1429,Regular
+17/06/2026,B1691,Snacks,Maggi 4-pack,18,₹56.00,"₹1,008.00",₹846.00,296,Regular
+17/06/2026,B1692,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,0,Online
+17/06/2026,B1693,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,97,Regular
+18/06/2026,B1694,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",162,Regular
+18/06/2026,B1695,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",41,Regular
+18/06/2026,B1696,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,95,Walk-in
+18/06/2026,B1697,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,57,Regular
+18/06/2026,B1698,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",415,Regular
+18/06/2026,B1699,Snacks,Parle-G,63,₹10.00,₹630.00,₹516.60,1366,Regular
+18/06/2026,B1700,Snacks,Maggi 4-pack,6,₹56.00,₹336.00,₹282.00,290,Regular
+18/06/2026,B1701,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,0,Regular
+18/06/2026,B1702,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,90,Online
+19/06/2026,B1703,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,158,Regular
+19/06/2026,B1704,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",37,Online
+19/06/2026,B1705,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,90,Regular
+19/06/2026,B1706,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",52,Walk-in
+19/06/2026,B1707,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,403,Regular
+19/06/2026,B1708,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,1304,Regular
+19/06/2026,B1709,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,278,Regular
+19/06/2026,B1710,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,0,Regular
+19/06/2026,B1711,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,88,Walk-in
+20/06/2026,B1712,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",146,Regular
+20/06/2026,B1713,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",30,Regular
+20/06/2026,B1714,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,83,Walk-in
+20/06/2026,B1715,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",47,Regular
+20/06/2026,B1716,Dairy,Milk 1L,26,₹66.00,"₹1,716.00","₹1,560.00",377,Walk-in
+20/06/2026,B1717,Snacks,Parle-G,88,₹10.00,₹880.00,₹721.60,1216,Regular
+20/06/2026,B1718,Snacks,Maggi 4-pack,18,₹56.00,"₹1,008.00",₹846.00,260,Walk-in
+20/06/2026,B1719,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,0,Regular
+20/06/2026,B1720,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,85,Online
+21/06/2026,B1721,Grocery,Atta 5kg,16,₹260.00,"₹4,160.00","₹3,440.00",130,Regular
+21/06/2026,B1722,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",27,Online
+21/06/2026,B1723,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,77,Regular
+21/06/2026,B1724,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,44,Walk-in
+21/06/2026,B1725,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,365,Regular
+21/06/2026,B1726,Snacks,Parle-G,74,₹10.00,₹740.00,₹606.80,1142,Online
+21/06/2026,B1727,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,245,Regular
+21/06/2026,B1728,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,0,Online
+21/06/2026,B1729,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,77,Walk-in
+22/06/2026,B1730,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",121,Regular
+22/06/2026,B1731,Grocery,Basmati Rice 5kg,1,₹610.00,₹610.00,₹520.00,26,Online
+22/06/2026,B1732,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,70,Walk-in
+22/06/2026,B1733,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",38,Regular
+22/06/2026,B1734,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",345,Online
+22/06/2026,B1735,Snacks,Parle-G,61,₹10.00,₹610.00,₹500.20,1081,Online
+22/06/2026,B1736,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,235,Walk-in
+22/06/2026,B1737,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,90,Online
+22/06/2026,B1738,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,74,Regular
+23/06/2026,B1739,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",114,Online
+23/06/2026,B1740,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",23,Walk-in
+23/06/2026,B1741,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,65,Regular
+23/06/2026,B1742,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",34,Regular
+23/06/2026,B1743,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,330,Online
+23/06/2026,B1744,Snacks,Parle-G,65,₹10.00,₹650.00,₹533.00,1016,Regular
+23/06/2026,B1745,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,225,Regular
+23/06/2026,B1746,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,86,Regular
+23/06/2026,B1747,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,66,Regular
+24/06/2026,B1748,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",102,Walk-in
+24/06/2026,B1749,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",19,Online
+24/06/2026,B1750,Grocery,Toor Dal 1kg,14,₹165.00,"₹2,310.00","₹1,932.00",51,Regular
+24/06/2026,B1751,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,31,Online
+24/06/2026,B1752,Dairy,Milk 1L,10,₹66.00,₹660.00,₹600.00,320,Online
+24/06/2026,B1753,Snacks,Parle-G,65,₹10.00,₹650.00,₹533.00,951,Regular
+24/06/2026,B1754,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,213,Regular
+24/06/2026,B1755,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,85,Walk-in
+24/06/2026,B1756,Household,Dettol Soap,10,₹48.00,₹480.00,₹380.00,56,Walk-in
+25/06/2026,B1757,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",94,Regular
+25/06/2026,B1758,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",148,Regular
+25/06/2026,B1759,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,46,Online
+25/06/2026,B1760,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",25,Regular
+25/06/2026,B1761,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,305,Walk-in
+25/06/2026,B1762,Snacks,Parle-G,58,₹10.00,₹580.00,₹475.60,893,Regular
+25/06/2026,B1763,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,203,Regular
+25/06/2026,B1764,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,82,Regular
+25/06/2026,B1765,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,52,Regular
+26/06/2026,B1766,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",83,Walk-in
+26/06/2026,B1767,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",143,Walk-in
+26/06/2026,B1768,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",36,Walk-in
+26/06/2026,B1769,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,22,Regular
+26/06/2026,B1770,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",288,Regular
+26/06/2026,B1771,Snacks,Parle-G,48,₹10.00,₹480.00,₹393.60,845,Regular
+26/06/2026,B1772,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,194,Online
+26/06/2026,B1773,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,80,Regular
+26/06/2026,B1774,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,44,Regular
+27/06/2026,B1775,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",74,Walk-in
+27/06/2026,B1776,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",140,Online
+27/06/2026,B1777,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,32,Walk-in
+27/06/2026,B1778,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",124,Regular
+27/06/2026,B1779,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",267,Online
+27/06/2026,B1780,Snacks,Parle-G,87,₹10.00,₹870.00,₹713.40,758,Online
+27/06/2026,B1781,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,182,Walk-in
+27/06/2026,B1782,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,78,Online
+27/06/2026,B1783,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,40,Regular
+28/06/2026,B1784,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",64,Online
+28/06/2026,B1785,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",134,Regular
+28/06/2026,B1786,Grocery,Toor Dal 1kg,2,₹165.00,₹330.00,₹276.00,30,Walk-in
+28/06/2026,B1787,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,121,Online
+28/06/2026,B1788,Dairy,Milk 1L,25,₹66.00,"₹1,650.00","₹1,500.00",242,Regular
+28/06/2026,B1789,Snacks,Parle-G,77,₹10.00,₹770.00,₹631.40,681,Walk-in
+28/06/2026,B1790,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,165,Online
+28/06/2026,B1791,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,75,Online
+28/06/2026,B1792,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,36,Regular
+29/06/2026,B1793,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",55,Regular
+29/06/2026,B1794,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",129,Regular
+29/06/2026,B1795,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,23,Regular
+29/06/2026,B1796,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",116,Online
+29/06/2026,B1797,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",225,Regular
+29/06/2026,B1798,Snacks,Parle-G,56,₹10.00,₹560.00,₹459.20,625,Regular
+29/06/2026,B1799,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,156,Regular
+29/06/2026,B1800,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,72,Walk-in
+29/06/2026,B1801,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,32,Online
+30/06/2026,B1802,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",47,Walk-in
+30/06/2026,B1803,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",124,Walk-in
+30/06/2026,B1804,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,16,Regular
+30/06/2026,B1805,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,115,Regular
+30/06/2026,B1806,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,210,Walk-in
+30/06/2026,B1807,Snacks,Parle-G,76,₹10.00,₹760.00,₹623.20,549,Online
+30/06/2026,B1808,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,140,Regular
+30/06/2026,B1809,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,71,Walk-in
+30/06/2026,B1810,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,177,Online
+01/07/2026,B1811,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",42,Regular
+01/07/2026,B1812,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",117,Regular
+01/07/2026,B1813,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",5,Walk-in
+01/07/2026,B1814,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",111,Walk-in
+01/07/2026,B1815,Dairy,Milk 1L,14,₹66.00,₹924.00,₹840.00,196,Regular
+01/07/2026,B1816,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,492,Online
+01/07/2026,B1817,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,129,Walk-in
+01/07/2026,B1818,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,68,Regular
+01/07/2026,B1819,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,173,Regular
+02/07/2026,B1820,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",36,Online
+02/07/2026,B1821,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",114,Regular
+02/07/2026,B1822,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,210,Walk-in
+02/07/2026,B1823,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,109,Online
+02/07/2026,B1824,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,183,Regular
+02/07/2026,B1825,Snacks,Parle-G,41,₹10.00,₹410.00,₹336.20,451,Walk-in
+02/07/2026,B1826,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,119,Regular
+02/07/2026,B1827,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,63,Walk-in
+02/07/2026,B1828,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,170,Online
+03/07/2026,B1829,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",30,Regular
+03/07/2026,B1830,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,205,Regular
+03/07/2026,B1831,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",103,Regular
+03/07/2026,B1832,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,167,Regular
+03/07/2026,B1833,Snacks,Parle-G,68,₹10.00,₹680.00,₹557.60,383,Online
+03/07/2026,B1834,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,111,Regular
+03/07/2026,B1835,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",57,Walk-in
+03/07/2026,B1836,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,167,Online
+04/07/2026,B1837,Grocery,Atta 5kg,14,₹260.00,"₹3,640.00","₹3,010.00",16,Regular
+04/07/2026,B1838,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",110,Online
+04/07/2026,B1839,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",194,Regular
+04/07/2026,B1840,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",97,Regular
+04/07/2026,B1841,Dairy,Milk 1L,26,₹66.00,"₹1,716.00","₹1,560.00",141,Walk-in
+04/07/2026,B1842,Snacks,Parle-G,83,₹10.00,₹830.00,₹680.60,300,Walk-in
+04/07/2026,B1843,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,100,Regular
+04/07/2026,B1844,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,54,Regular
+04/07/2026,B1845,Household,Dettol Soap,12,₹48.00,₹576.00,₹456.00,155,Walk-in
+05/07/2026,B1846,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",244,Regular
+05/07/2026,B1847,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",107,Regular
+05/07/2026,B1848,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",185,Regular
+05/07/2026,B1849,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",93,Regular
+05/07/2026,B1850,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",122,Regular
+05/07/2026,B1851,Snacks,Parle-G,77,₹10.00,₹770.00,₹631.40,223,Regular
+05/07/2026,B1852,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,88,Online
+05/07/2026,B1853,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",48,Walk-in
+05/07/2026,B1854,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,151,Online
+06/07/2026,B1855,Grocery,Atta 5kg,3,₹260.00,₹780.00,₹645.00,241,Online
+06/07/2026,B1856,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",105,Online
+06/07/2026,B1857,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,182,Regular
+06/07/2026,B1858,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",88,Regular
+06/07/2026,B1859,Dairy,Milk 1L,14,₹66.00,₹924.00,₹840.00,108,Regular
+06/07/2026,B1860,Snacks,Parle-G,61,₹10.00,₹610.00,₹500.20,162,Regular
+06/07/2026,B1861,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,73,Regular
+06/07/2026,B1862,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,46,Regular
+06/07/2026,B1863,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,142,Regular
+07/07/2026,B1864,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",229,Regular
+07/07/2026,B1865,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",96,Online
+07/07/2026,B1866,Grocery,Toor Dal 1kg,2,₹165.00,₹330.00,₹276.00,180,Regular
+07/07/2026,B1867,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,86,Regular
+07/07/2026,B1868,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",88,Regular
+07/07/2026,B1869,Snacks,Parle-G,61,₹10.00,₹610.00,₹500.20,101,Walk-in
+07/07/2026,B1870,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,63,Regular
+07/07/2026,B1871,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,43,Walk-in
+07/07/2026,B1872,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,134,Regular
+08/07/2026,B1873,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",219,Online
+08/07/2026,B1874,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",89,Regular
+08/07/2026,B1875,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,174,Regular
+08/07/2026,B1876,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,75,Walk-in
+08/07/2026,B1877,Snacks,Parle-G,49,₹10.00,₹490.00,₹401.80,52,Online
+08/07/2026,B1878,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,48,Walk-in
+08/07/2026,B1879,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,42,Online
+08/07/2026,B1880,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,127,Online
+09/07/2026,B1881,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",214,Regular
+09/07/2026,B1882,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",87,Online
+09/07/2026,B1883,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,169,Regular
+09/07/2026,B1884,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",81,Regular
+09/07/2026,B1885,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",56,Online
+09/07/2026,B1886,Snacks,Parle-G,69,₹10.00,₹690.00,₹565.80,0,Regular
+09/07/2026,B1887,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,41,Online
+09/07/2026,B1888,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,41,Regular
+09/07/2026,B1889,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,125,Regular
+10/07/2026,B1890,Grocery,Atta 5kg,14,₹260.00,"₹3,640.00","₹3,010.00",200,Walk-in
+10/07/2026,B1891,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",82,Regular
+10/07/2026,B1892,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,162,Regular
+10/07/2026,B1893,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",75,Regular
+10/07/2026,B1894,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",35,Regular
+10/07/2026,B1895,Snacks,Parle-G,58,₹10.00,₹580.00,₹475.60,0,Online
+10/07/2026,B1896,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,27,Walk-in
+10/07/2026,B1897,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",35,Walk-in
+10/07/2026,B1898,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,123,Regular
+11/07/2026,B1899,Grocery,Atta 5kg,13,₹260.00,"₹3,380.00","₹2,795.00",187,Walk-in
+11/07/2026,B1900,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",79,Regular
+11/07/2026,B1901,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",154,Online
+11/07/2026,B1902,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,73,Walk-in
+11/07/2026,B1903,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",17,Regular
+11/07/2026,B1904,Snacks,Parle-G,68,₹10.00,₹680.00,₹557.60,0,Regular
+11/07/2026,B1905,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,14,Online
+11/07/2026,B1906,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,32,Regular
+11/07/2026,B1907,Household,Dettol Soap,12,₹48.00,₹576.00,₹456.00,111,Online
+12/07/2026,B1908,Grocery,Atta 5kg,15,₹260.00,"₹3,900.00","₹3,225.00",172,Walk-in
+12/07/2026,B1909,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",74,Regular
+12/07/2026,B1910,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,148,Online
+12/07/2026,B1911,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",68,Online
+12/07/2026,B1912,Dairy,Milk 1L,28,₹66.00,"₹1,848.00","₹1,680.00",540,Online
+12/07/2026,B1913,Snacks,Parle-G,88,₹10.00,₹880.00,₹721.60,0,Online
+12/07/2026,B1914,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,1,Regular
+12/07/2026,B1915,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,30,Regular
+12/07/2026,B1916,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,109,Regular
+13/07/2026,B1917,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",161,Regular
+13/07/2026,B1918,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",71,Walk-in
+13/07/2026,B1919,Grocery,Toor Dal 1kg,14,₹165.00,"₹2,310.00","₹1,932.00",134,Regular
+13/07/2026,B1920,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",63,Regular
+13/07/2026,B1921,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,524,Regular
+13/07/2026,B1922,Snacks,Parle-G,64,₹10.00,₹640.00,₹524.80,1800,Walk-in
+13/07/2026,B1923,Snacks,Maggi 4-pack,22,₹56.00,"₹1,232.00","₹1,034.00",0,Regular
+13/07/2026,B1924,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,28,Regular
+13/07/2026,B1925,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,105,Online
+14/07/2026,B1926,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",154,Regular
+14/07/2026,B1927,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",67,Walk-in
+14/07/2026,B1928,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,127,Regular
+14/07/2026,B1929,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,60,Walk-in
+14/07/2026,B1930,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,508,Online
+14/07/2026,B1931,Snacks,Parle-G,61,₹10.00,₹610.00,₹500.20,1739,Walk-in
+14/07/2026,B1932,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,0,Walk-in
+14/07/2026,B1933,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",22,Walk-in
+14/07/2026,B1934,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,100,Regular
+15/07/2026,B1935,Grocery,Atta 5kg,15,₹260.00,"₹3,900.00","₹3,225.00",139,Regular
+15/07/2026,B1936,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",62,Regular
+15/07/2026,B1937,Grocery,Toor Dal 1kg,12,₹165.00,"₹1,980.00","₹1,656.00",115,Walk-in
+15/07/2026,B1938,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,57,Online
+15/07/2026,B1939,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",484,Regular
+15/07/2026,B1940,Snacks,Parle-G,53,₹10.00,₹530.00,₹434.60,1686,Walk-in
+15/07/2026,B1941,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,0,Regular
+15/07/2026,B1942,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,18,Walk-in
+15/07/2026,B1943,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,94,Online
+16/07/2026,B1944,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",132,Online
+16/07/2026,B1945,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",58,Online
+16/07/2026,B1946,Grocery,Toor Dal 1kg,12,₹165.00,"₹1,980.00","₹1,656.00",103,Regular
+16/07/2026,B1947,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,56,Regular
+16/07/2026,B1948,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",467,Regular
+16/07/2026,B1949,Snacks,Parle-G,48,₹10.00,₹480.00,₹393.60,1638,Online
+16/07/2026,B1950,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,0,Walk-in
+16/07/2026,B1951,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,15,Online
+16/07/2026,B1952,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,88,Regular
+17/07/2026,B1953,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",121,Regular
+17/07/2026,B1954,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",54,Regular
+17/07/2026,B1955,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",92,Regular
+17/07/2026,B1956,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",50,Walk-in
+17/07/2026,B1957,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,452,Walk-in
+17/07/2026,B1958,Snacks,Parle-G,64,₹10.00,₹640.00,₹524.80,1574,Walk-in
+17/07/2026,B1959,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,0,Online
+17/07/2026,B1960,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,11,Regular
+17/07/2026,B1961,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,85,Regular
+18/07/2026,B1962,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",112,Regular
+18/07/2026,B1963,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",45,Regular
+18/07/2026,B1964,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",82,Regular
+18/07/2026,B1965,Dairy,Amul Butter 500g,10,₹285.00,"₹2,850.00","₹2,550.00",40,Regular
+18/07/2026,B1966,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",430,Walk-in
+18/07/2026,B1967,Snacks,Parle-G,77,₹10.00,₹770.00,₹631.40,1497,Online
+18/07/2026,B1968,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,360,Regular
+18/07/2026,B1969,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,8,Online
+18/07/2026,B1970,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,76,Regular
+19/07/2026,B1971,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",101,Regular
+19/07/2026,B1972,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",41,Walk-in
+19/07/2026,B1973,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,75,Walk-in
+19/07/2026,B1974,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,38,Regular
+19/07/2026,B1975,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",406,Walk-in
+19/07/2026,B1976,Snacks,Parle-G,95,₹10.00,₹950.00,₹779.00,1402,Regular
+19/07/2026,B1977,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,345,Regular
+19/07/2026,B1978,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,5,Regular
+19/07/2026,B1979,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,70,Walk-in
+20/07/2026,B1980,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",92,Regular
+20/07/2026,B1981,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",35,Walk-in
+20/07/2026,B1982,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",66,Regular
+20/07/2026,B1983,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",34,Regular
+20/07/2026,B1984,Dairy,Milk 1L,10,₹66.00,₹660.00,₹600.00,396,Online
+20/07/2026,B1985,Snacks,Parle-G,46,₹10.00,₹460.00,₹377.20,1356,Regular
+20/07/2026,B1986,Snacks,Maggi 4-pack,18,₹56.00,"₹1,008.00",₹846.00,327,Regular
+20/07/2026,B1987,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,3,Regular
+20/07/2026,B1988,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,64,Walk-in
+21/07/2026,B1989,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",86,Regular
+21/07/2026,B1990,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",31,Walk-in
+21/07/2026,B1991,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",55,Regular
+21/07/2026,B1992,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,33,Online
+21/07/2026,B1993,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",376,Online
+21/07/2026,B1994,Snacks,Parle-G,66,₹10.00,₹660.00,₹541.20,1290,Walk-in
+21/07/2026,B1995,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,317,Regular
+21/07/2026,B1996,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,0,Regular
+21/07/2026,B1997,Household,Dettol Soap,10,₹48.00,₹480.00,₹380.00,54,Walk-in
+22/07/2026,B1998,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",81,Walk-in
+22/07/2026,B1999,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",28,Regular
+22/07/2026,B2000,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,51,Regular
+22/07/2026,B2001,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,30,Regular
+22/07/2026,B2002,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,364,Regular
+22/07/2026,B2003,Snacks,Parle-G,63,₹10.00,₹630.00,₹516.60,1227,Regular
+22/07/2026,B2004,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,301,Regular
+22/07/2026,B2005,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,90,Online
+22/07/2026,B2006,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,47,Walk-in
+23/07/2026,B2007,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,77,Online
+23/07/2026,B2008,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",22,Regular
+23/07/2026,B2009,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,47,Walk-in
+23/07/2026,B2010,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,28,Walk-in
+23/07/2026,B2011,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,352,Regular
+23/07/2026,B2012,Snacks,Parle-G,54,₹10.00,₹540.00,₹442.80,1173,Online
+23/07/2026,B2013,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,294,Regular
+23/07/2026,B2014,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,87,Walk-in
+23/07/2026,B2015,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,40,Online
+24/07/2026,B2016,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",68,Online
+24/07/2026,B2017,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",19,Online
+24/07/2026,B2018,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,41,Regular
+24/07/2026,B2019,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",21,Walk-in
+24/07/2026,B2020,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",330,Regular
+24/07/2026,B2021,Snacks,Parle-G,58,₹10.00,₹580.00,₹475.60,1115,Online
+24/07/2026,B2022,Snacks,Maggi 4-pack,18,₹56.00,"₹1,008.00",₹846.00,276,Regular
+24/07/2026,B2023,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,83,Online
+24/07/2026,B2024,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,33,Regular
+25/07/2026,B2025,Grocery,Atta 5kg,21,₹260.00,"₹5,460.00","₹4,515.00",47,Walk-in
+25/07/2026,B2026,Grocery,Basmati Rice 5kg,8,₹610.00,"₹4,880.00","₹4,160.00",11,Walk-in
+25/07/2026,B2027,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",30,Walk-in
+25/07/2026,B2028,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",15,Regular
+25/07/2026,B2029,Dairy,Milk 1L,27,₹66.00,"₹1,782.00","₹1,620.00",303,Regular
+25/07/2026,B2030,Snacks,Parle-G,85,₹10.00,₹850.00,₹697.00,1030,Regular
+25/07/2026,B2031,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,260,Walk-in
+25/07/2026,B2032,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,79,Walk-in
+25/07/2026,B2033,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,30,Walk-in
+26/07/2026,B2034,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",276,Regular
+26/07/2026,B2035,Grocery,Basmati Rice 5kg,8,₹610.00,"₹4,880.00","₹4,160.00",3,Walk-in
+26/07/2026,B2036,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",21,Regular
+26/07/2026,B2037,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",116,Regular
+26/07/2026,B2038,Dairy,Milk 1L,35,₹66.00,"₹2,310.00","₹2,100.00",268,Regular
+26/07/2026,B2039,Snacks,Parle-G,96,₹10.00,₹960.00,₹787.20,934,Walk-in
+26/07/2026,B2040,Snacks,Maggi 4-pack,18,₹56.00,"₹1,008.00",₹846.00,242,Regular
+26/07/2026,B2041,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,77,Regular
+26/07/2026,B2042,Household,Dettol Soap,10,₹48.00,₹480.00,₹380.00,20,Regular
+27/07/2026,B2043,Grocery,Atta 5kg,13,₹260.00,"₹3,380.00","₹2,795.00",263,Regular
+27/07/2026,B2044,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",0,Walk-in
+27/07/2026,B2045,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,14,Regular
+27/07/2026,B2046,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",110,Regular
+27/07/2026,B2047,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,256,Regular
+27/07/2026,B2048,Snacks,Parle-G,47,₹10.00,₹470.00,₹385.40,887,Walk-in
+27/07/2026,B2049,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,231,Walk-in
+27/07/2026,B2050,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,74,Regular
+28/07/2026,B2051,Grocery,Atta 5kg,14,₹260.00,"₹3,640.00","₹3,010.00",249,Online
+28/07/2026,B2052,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",0,Regular
+28/07/2026,B2053,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",5,Online
+28/07/2026,B2054,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,107,Walk-in
+28/07/2026,B2055,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",236,Regular
+28/07/2026,B2056,Snacks,Parle-G,58,₹10.00,₹580.00,₹475.60,829,Regular
+28/07/2026,B2057,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,222,Regular
+28/07/2026,B2058,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,69,Regular
+28/07/2026,B2059,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,14,Online
+29/07/2026,B2060,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",237,Walk-in
+29/07/2026,B2061,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",132,Walk-in
+29/07/2026,B2062,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,210,Regular
+29/07/2026,B2063,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",103,Regular
+29/07/2026,B2064,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",219,Regular
+29/07/2026,B2065,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,772,Walk-in
+29/07/2026,B2066,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,208,Regular
+29/07/2026,B2067,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,66,Walk-in
+29/07/2026,B2068,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,10,Online
+30/07/2026,B2069,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",229,Regular
+30/07/2026,B2070,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",126,Regular
+30/07/2026,B2071,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,203,Regular
+30/07/2026,B2072,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,101,Online
+30/07/2026,B2073,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",200,Online
+30/07/2026,B2074,Snacks,Parle-G,52,₹10.00,₹520.00,₹426.40,720,Online
+30/07/2026,B2075,Snacks,Maggi 4-pack,19,₹56.00,"₹1,064.00",₹893.00,189,Regular
+30/07/2026,B2076,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,64,Online
+30/07/2026,B2077,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,6,Walk-in
+31/07/2026,B2078,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",221,Walk-in
+31/07/2026,B2079,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",122,Online
+31/07/2026,B2080,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",194,Regular
+31/07/2026,B2081,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,98,Regular
+31/07/2026,B2082,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,185,Online
+31/07/2026,B2083,Snacks,Parle-G,56,₹10.00,₹560.00,₹459.20,664,Regular
+31/07/2026,B2084,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,173,Regular
+31/07/2026,B2085,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,59,Walk-in
+31/07/2026,B2086,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,3,Online
+01/08/2026,B2087,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",213,Regular
+01/08/2026,B2088,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",119,Regular
+01/08/2026,B2089,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",183,Online
+01/08/2026,B2090,Dairy,Amul Butter 500g,8,₹285.00,"₹2,280.00","₹2,040.00",90,Online
+01/08/2026,B2091,Dairy,Milk 1L,29,₹66.00,"₹1,914.00","₹1,740.00",156,Online
+01/08/2026,B2092,Snacks,Parle-G,78,₹10.00,₹780.00,₹639.60,586,Walk-in
+01/08/2026,B2093,Snacks,Maggi 4-pack,21,₹56.00,"₹1,176.00",₹987.00,152,Regular
+01/08/2026,B2094,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",53,Regular
+01/08/2026,B2095,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,0,Regular
+02/08/2026,B2096,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",205,Walk-in
+02/08/2026,B2097,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",110,Walk-in
+02/08/2026,B2098,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",172,Walk-in
+02/08/2026,B2099,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",86,Regular
+02/08/2026,B2100,Dairy,Milk 1L,26,₹66.00,"₹1,716.00","₹1,560.00",130,Regular
+02/08/2026,B2101,Snacks,Parle-G,85,₹10.00,₹850.00,₹697.00,501,Walk-in
+02/08/2026,B2102,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,140,Regular
+02/08/2026,B2103,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,48,Online
+02/08/2026,B2104,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,0,Walk-in
+03/08/2026,B2105,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",196,Regular
+03/08/2026,B2106,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",107,Regular
+03/08/2026,B2107,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",162,Walk-in
+03/08/2026,B2108,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",82,Regular
+03/08/2026,B2109,Dairy,Milk 1L,33,₹66.00,"₹2,178.00","₹1,980.00",97,Walk-in
+03/08/2026,B2110,Snacks,Parle-G,67,₹10.00,₹670.00,₹549.40,434,Online
+03/08/2026,B2111,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,129,Regular
+03/08/2026,B2112,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,43,Walk-in
+03/08/2026,B2113,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,0,Walk-in
+04/08/2026,B2114,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",187,Walk-in
+04/08/2026,B2115,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",103,Regular
+04/08/2026,B2116,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,157,Online
+04/08/2026,B2117,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,79,Regular
+04/08/2026,B2118,Dairy,Milk 1L,11,₹66.00,₹726.00,₹660.00,86,Regular
+04/08/2026,B2119,Snacks,Parle-G,50,₹10.00,₹500.00,₹410.00,384,Walk-in
+04/08/2026,B2120,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,118,Regular
+04/08/2026,B2121,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,41,Walk-in
+04/08/2026,B2122,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,0,Online
+05/08/2026,B2123,Grocery,Atta 5kg,17,₹260.00,"₹4,420.00","₹3,655.00",170,Regular
+05/08/2026,B2124,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",100,Walk-in
+05/08/2026,B2125,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",147,Walk-in
+05/08/2026,B2126,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,77,Regular
+05/08/2026,B2127,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",606,Regular
+05/08/2026,B2128,Snacks,Parle-G,71,₹10.00,₹710.00,₹582.20,2113,Regular
+05/08/2026,B2129,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,107,Regular
+05/08/2026,B2130,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,36,Online
+05/08/2026,B2131,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,0,Regular
+06/08/2026,B2132,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",163,Online
+06/08/2026,B2133,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",91,Walk-in
+06/08/2026,B2134,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,142,Online
+06/08/2026,B2135,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,74,Online
+06/08/2026,B2136,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",588,Regular
+06/08/2026,B2137,Snacks,Parle-G,69,₹10.00,₹690.00,₹565.80,2044,Regular
+06/08/2026,B2138,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,93,Walk-in
+06/08/2026,B2139,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,34,Online
+06/08/2026,B2140,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,150,Walk-in
+07/08/2026,B2141,Grocery,Atta 5kg,13,₹260.00,"₹3,380.00","₹2,795.00",150,Regular
+07/08/2026,B2142,Grocery,Basmati Rice 5kg,10,₹610.00,"₹6,100.00","₹5,200.00",81,Regular
+07/08/2026,B2143,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,135,Regular
+07/08/2026,B2144,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",69,Walk-in
+07/08/2026,B2145,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",566,Online
+07/08/2026,B2146,Snacks,Parle-G,79,₹10.00,₹790.00,₹647.80,1965,Regular
+07/08/2026,B2147,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,77,Online
+07/08/2026,B2148,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,32,Regular
+07/08/2026,B2149,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,146,Regular
+08/08/2026,B2150,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",142,Regular
+08/08/2026,B2151,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",76,Regular
+08/08/2026,B2152,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,131,Online
+08/08/2026,B2153,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",63,Regular
+08/08/2026,B2154,Dairy,Milk 1L,23,₹66.00,"₹1,518.00","₹1,380.00",543,Regular
+08/08/2026,B2155,Snacks,Parle-G,84,₹10.00,₹840.00,₹688.80,1881,Regular
+08/08/2026,B2156,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,425,Regular
+08/08/2026,B2157,Household,Surf Excel 1kg,10,₹210.00,"₹2,100.00","₹1,720.00",22,Walk-in
+08/08/2026,B2158,Household,Dettol Soap,10,₹48.00,₹480.00,₹380.00,136,Online
+09/08/2026,B2159,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",133,Regular
+09/08/2026,B2160,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",71,Online
+09/08/2026,B2161,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",122,Online
+09/08/2026,B2162,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",59,Walk-in
+09/08/2026,B2163,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",521,Online
+09/08/2026,B2164,Snacks,Parle-G,87,₹10.00,₹870.00,₹713.40,1794,Walk-in
+09/08/2026,B2165,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,411,Regular
+09/08/2026,B2166,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,17,Regular
+09/08/2026,B2167,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,130,Regular
+10/08/2026,B2168,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",127,Regular
+10/08/2026,B2169,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",66,Walk-in
+10/08/2026,B2170,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,116,Regular
+10/08/2026,B2171,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,57,Regular
+10/08/2026,B2172,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",501,Regular
+10/08/2026,B2173,Snacks,Parle-G,67,₹10.00,₹670.00,₹549.40,1727,Walk-in
+10/08/2026,B2174,Snacks,Maggi 4-pack,19,₹56.00,"₹1,064.00",₹893.00,392,Regular
+10/08/2026,B2175,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,14,Online
+10/08/2026,B2176,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,125,Regular
+11/08/2026,B2177,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",119,Regular
+11/08/2026,B2178,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",64,Online
+11/08/2026,B2179,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,109,Online
+11/08/2026,B2180,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",53,Online
+11/08/2026,B2181,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",477,Regular
+11/08/2026,B2182,Snacks,Parle-G,63,₹10.00,₹630.00,₹516.60,1664,Walk-in
+11/08/2026,B2183,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,379,Regular
+11/08/2026,B2184,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,13,Walk-in
+11/08/2026,B2185,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,118,Online
+12/08/2026,B2186,Grocery,Atta 5kg,13,₹260.00,"₹3,380.00","₹2,795.00",106,Regular
+12/08/2026,B2187,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",60,Walk-in
+12/08/2026,B2188,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",101,Regular
+12/08/2026,B2189,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",49,Regular
+12/08/2026,B2190,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",458,Online
+12/08/2026,B2191,Snacks,Parle-G,67,₹10.00,₹670.00,₹549.40,1597,Online
+12/08/2026,B2192,Snacks,Maggi 4-pack,10,₹56.00,₹560.00,₹470.00,369,Regular
+12/08/2026,B2193,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,101,Walk-in
+12/08/2026,B2194,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,112,Regular
+13/08/2026,B2195,Grocery,Atta 5kg,13,₹260.00,"₹3,380.00","₹2,795.00",93,Walk-in
+13/08/2026,B2196,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",58,Regular
+13/08/2026,B2197,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,96,Online
+13/08/2026,B2198,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,46,Regular
+13/08/2026,B2199,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,442,Online
+13/08/2026,B2200,Snacks,Parle-G,76,₹10.00,₹760.00,₹623.20,1521,Walk-in
+13/08/2026,B2201,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,354,Regular
+13/08/2026,B2202,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,96,Regular
+13/08/2026,B2203,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,106,Walk-in
+14/08/2026,B2204,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",83,Online
+14/08/2026,B2205,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",56,Regular
+14/08/2026,B2206,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,90,Regular
+14/08/2026,B2207,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",39,Regular
+14/08/2026,B2208,Dairy,Milk 1L,26,₹66.00,"₹1,716.00","₹1,560.00",416,Online
+14/08/2026,B2209,Snacks,Parle-G,74,₹10.00,₹740.00,₹606.80,1447,Regular
+14/08/2026,B2210,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,345,Regular
+14/08/2026,B2211,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,93,Online
+14/08/2026,B2212,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,101,Walk-in
+15/08/2026,B2213,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",71,Online
+15/08/2026,B2214,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",52,Walk-in
+15/08/2026,B2215,Grocery,Toor Dal 1kg,13,₹165.00,"₹2,145.00","₹1,794.00",77,Walk-in
+15/08/2026,B2216,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,36,Online
+15/08/2026,B2217,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",395,Walk-in
+15/08/2026,B2218,Snacks,Parle-G,70,₹10.00,₹700.00,₹574.00,1377,Walk-in
+15/08/2026,B2219,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,329,Walk-in
+15/08/2026,B2220,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",87,Regular
+15/08/2026,B2221,Household,Dettol Soap,7,₹48.00,₹336.00,₹266.00,94,Regular
+16/08/2026,B2222,Grocery,Atta 5kg,15,₹260.00,"₹3,900.00","₹3,225.00",56,Online
+16/08/2026,B2223,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",43,Walk-in
+16/08/2026,B2224,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,72,Walk-in
+16/08/2026,B2225,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",31,Regular
+16/08/2026,B2226,Dairy,Milk 1L,27,₹66.00,"₹1,782.00","₹1,620.00",368,Online
+16/08/2026,B2227,Snacks,Parle-G,81,₹10.00,₹810.00,₹664.20,1296,Regular
+16/08/2026,B2228,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,312,Online
+16/08/2026,B2229,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,84,Walk-in
+16/08/2026,B2230,Household,Dettol Soap,10,₹48.00,₹480.00,₹380.00,84,Online
+17/08/2026,B2231,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",46,Online
+17/08/2026,B2232,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",38,Regular
+17/08/2026,B2233,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",61,Regular
+17/08/2026,B2234,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,29,Regular
+17/08/2026,B2235,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",344,Online
+17/08/2026,B2236,Snacks,Parle-G,53,₹10.00,₹530.00,₹434.60,1243,Online
+17/08/2026,B2237,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,305,Online
+17/08/2026,B2238,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,81,Regular
+18/08/2026,B2239,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",37,Walk-in
+18/08/2026,B2240,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",35,Walk-in
+18/08/2026,B2241,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",53,Walk-in
+18/08/2026,B2242,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",23,Walk-in
+18/08/2026,B2243,Dairy,Milk 1L,23,₹66.00,"₹1,518.00","₹1,380.00",321,Walk-in
+18/08/2026,B2244,Snacks,Parle-G,64,₹10.00,₹640.00,₹524.80,1179,Regular
+18/08/2026,B2245,Snacks,Maggi 4-pack,22,₹56.00,"₹1,232.00","₹1,034.00",283,Walk-in
+18/08/2026,B2246,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,76,Regular
+18/08/2026,B2247,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,79,Regular
+19/08/2026,B2248,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",28,Online
+19/08/2026,B2249,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",31,Regular
+19/08/2026,B2250,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",44,Regular
+19/08/2026,B2251,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",16,Regular
+19/08/2026,B2252,Dairy,Milk 1L,23,₹66.00,"₹1,518.00","₹1,380.00",298,Walk-in
+19/08/2026,B2253,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,1117,Online
+19/08/2026,B2254,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,271,Regular
+19/08/2026,B2255,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,74,Online
+19/08/2026,B2256,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,73,Walk-in
+20/08/2026,B2257,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",23,Regular
+20/08/2026,B2258,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",24,Online
+20/08/2026,B2259,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,38,Regular
+20/08/2026,B2260,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",12,Walk-in
+20/08/2026,B2261,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",281,Online
+20/08/2026,B2262,Snacks,Parle-G,85,₹10.00,₹850.00,₹697.00,1032,Regular
+20/08/2026,B2263,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,259,Online
+20/08/2026,B2264,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,72,Regular
+20/08/2026,B2265,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,65,Online
+21/08/2026,B2266,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",254,Online
+21/08/2026,B2267,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",20,Online
+21/08/2026,B2268,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,31,Regular
+21/08/2026,B2269,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,9,Online
+21/08/2026,B2270,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",262,Regular
+21/08/2026,B2271,Snacks,Parle-G,71,₹10.00,₹710.00,₹582.20,961,Walk-in
+21/08/2026,B2272,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,242,Walk-in
+21/08/2026,B2273,Household,Surf Excel 1kg,8,₹210.00,"₹1,680.00","₹1,376.00",64,Online
+21/08/2026,B2274,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,63,Online
+22/08/2026,B2275,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",245,Regular
+22/08/2026,B2276,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",146,Online
+22/08/2026,B2277,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",22,Regular
+22/08/2026,B2278,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",2,Walk-in
+22/08/2026,B2279,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",240,Online
+22/08/2026,B2280,Snacks,Parle-G,100,₹10.00,"₹1,000.00",₹820.00,861,Online
+22/08/2026,B2281,Snacks,Maggi 4-pack,19,₹56.00,"₹1,064.00",₹893.00,223,Regular
+22/08/2026,B2282,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,61,Regular
+22/08/2026,B2283,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,55,Regular
+23/08/2026,B2284,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",235,Regular
+23/08/2026,B2285,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",142,Online
+23/08/2026,B2286,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,17,Online
+23/08/2026,B2287,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",108,Walk-in
+23/08/2026,B2288,Dairy,Milk 1L,31,₹66.00,"₹2,046.00","₹1,860.00",209,Online
+23/08/2026,B2289,Snacks,Parle-G,73,₹10.00,₹730.00,₹598.60,788,Online
+23/08/2026,B2290,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,206,Regular
+23/08/2026,B2291,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,57,Regular
+23/08/2026,B2292,Household,Dettol Soap,11,₹48.00,₹528.00,₹418.00,44,Walk-in
+24/08/2026,B2293,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",229,Regular
+24/08/2026,B2294,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",136,Regular
+24/08/2026,B2295,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",9,Online
+24/08/2026,B2296,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",104,Online
+24/08/2026,B2297,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",192,Online
+24/08/2026,B2298,Snacks,Parle-G,50,₹10.00,₹500.00,₹410.00,738,Online
+24/08/2026,B2299,Snacks,Maggi 4-pack,19,₹56.00,"₹1,064.00",₹893.00,187,Online
+24/08/2026,B2300,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,53,Regular
+24/08/2026,B2301,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,36,Walk-in
+25/08/2026,B2302,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",221,Online
+25/08/2026,B2303,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",134,Walk-in
+25/08/2026,B2304,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",210,Online
+25/08/2026,B2305,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",98,Regular
+25/08/2026,B2306,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",171,Online
+25/08/2026,B2307,Snacks,Parle-G,71,₹10.00,₹710.00,₹582.20,667,Regular
+25/08/2026,B2308,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,180,Online
+25/08/2026,B2309,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,48,Regular
+25/08/2026,B2310,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,28,Regular
+26/08/2026,B2311,Grocery,Atta 5kg,15,₹260.00,"₹3,900.00","₹3,225.00",206,Regular
+26/08/2026,B2312,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",128,Online
+26/08/2026,B2313,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,203,Regular
+26/08/2026,B2314,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,96,Walk-in
+26/08/2026,B2315,Dairy,Milk 1L,21,₹66.00,"₹1,386.00","₹1,260.00",150,Online
+26/08/2026,B2316,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,605,Regular
+26/08/2026,B2317,Snacks,Maggi 4-pack,19,₹56.00,"₹1,064.00",₹893.00,161,Regular
+26/08/2026,B2318,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,44,Online
+26/08/2026,B2319,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,24,Walk-in
+27/08/2026,B2320,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",196,Online
+27/08/2026,B2321,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",123,Regular
+27/08/2026,B2322,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",192,Walk-in
+27/08/2026,B2323,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,95,Regular
+27/08/2026,B2324,Dairy,Milk 1L,23,₹66.00,"₹1,518.00","₹1,380.00",127,Online
+27/08/2026,B2325,Snacks,Parle-G,69,₹10.00,₹690.00,₹565.80,536,Regular
+27/08/2026,B2326,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,154,Online
+27/08/2026,B2327,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,41,Online
+27/08/2026,B2328,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,19,Regular
+28/08/2026,B2329,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",188,Regular
+28/08/2026,B2330,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",121,Online
+28/08/2026,B2331,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,185,Online
+28/08/2026,B2332,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",90,Regular
+28/08/2026,B2333,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",107,Regular
+28/08/2026,B2334,Snacks,Parle-G,65,₹10.00,₹650.00,₹533.00,471,Online
+28/08/2026,B2335,Snacks,Maggi 4-pack,19,₹56.00,"₹1,064.00",₹893.00,135,Online
+28/08/2026,B2336,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,38,Regular
+28/08/2026,B2337,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,13,Online
+29/08/2026,B2338,Grocery,Atta 5kg,16,₹260.00,"₹4,160.00","₹3,440.00",172,Online
+29/08/2026,B2339,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",119,Regular
+29/08/2026,B2340,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,179,Walk-in
+29/08/2026,B2341,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",86,Regular
+29/08/2026,B2342,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",87,Online
+29/08/2026,B2343,Snacks,Parle-G,85,₹10.00,₹850.00,₹697.00,386,Regular
+29/08/2026,B2344,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,121,Regular
+29/08/2026,B2345,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,33,Regular
+29/08/2026,B2346,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,10,Regular
+30/08/2026,B2347,Grocery,Atta 5kg,17,₹260.00,"₹4,420.00","₹3,655.00",155,Online
+30/08/2026,B2348,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",113,Regular
+30/08/2026,B2349,Grocery,Toor Dal 1kg,13,₹165.00,"₹2,145.00","₹1,794.00",166,Walk-in
+30/08/2026,B2350,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,83,Regular
+30/08/2026,B2351,Dairy,Milk 1L,28,₹66.00,"₹1,848.00","₹1,680.00",59,Regular
+30/08/2026,B2352,Snacks,Parle-G,99,₹10.00,₹990.00,₹811.80,287,Regular
+30/08/2026,B2353,Snacks,Maggi 4-pack,26,₹56.00,"₹1,456.00","₹1,222.00",95,Regular
+30/08/2026,B2354,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,30,Walk-in
+30/08/2026,B2355,Household,Dettol Soap,13,₹48.00,₹624.00,₹494.00,0,Regular
+31/08/2026,B2356,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",148,Online
+31/08/2026,B2357,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",108,Regular
+31/08/2026,B2358,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,160,Regular
+31/08/2026,B2359,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",79,Regular
+31/08/2026,B2360,Dairy,Milk 1L,16,₹66.00,"₹1,056.00",₹960.00,43,Online
+31/08/2026,B2361,Snacks,Parle-G,55,₹10.00,₹550.00,₹451.00,232,Regular
+31/08/2026,B2362,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,84,Regular
+31/08/2026,B2363,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,0,Online
+01/09/2026,B2364,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",141,Online
+01/09/2026,B2365,Grocery,Basmati Rice 5kg,1,₹610.00,₹610.00,₹520.00,107,Regular
+01/09/2026,B2366,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",150,Walk-in
+01/09/2026,B2367,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",73,Regular
+01/09/2026,B2368,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",564,Online
+01/09/2026,B2369,Snacks,Parle-G,69,₹10.00,₹690.00,₹565.80,1963,Regular
+01/09/2026,B2370,Snacks,Maggi 4-pack,19,₹56.00,"₹1,064.00",₹893.00,65,Walk-in
+01/09/2026,B2371,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",24,Online
+01/09/2026,B2372,Household,Dettol Soap,9,₹48.00,₹432.00,₹342.00,0,Regular
+02/09/2026,B2373,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",135,Regular
+02/09/2026,B2374,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",100,Online
+02/09/2026,B2375,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,145,Regular
+02/09/2026,B2376,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,72,Regular
+02/09/2026,B2377,Dairy,Milk 1L,20,₹66.00,"₹1,320.00","₹1,200.00",544,Walk-in
+02/09/2026,B2378,Snacks,Parle-G,52,₹10.00,₹520.00,₹426.40,1911,Regular
+02/09/2026,B2379,Snacks,Maggi 4-pack,7,₹56.00,₹392.00,₹329.00,58,Online
+02/09/2026,B2380,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,19,Online
+02/09/2026,B2381,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,0,Regular
+03/09/2026,B2382,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",126,Online
+03/09/2026,B2383,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",93,Regular
+03/09/2026,B2384,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,140,Walk-in
+03/09/2026,B2385,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",67,Walk-in
+03/09/2026,B2386,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",526,Online
+03/09/2026,B2387,Snacks,Parle-G,64,₹10.00,₹640.00,₹524.80,1847,Regular
+03/09/2026,B2388,Snacks,Maggi 4-pack,20,₹56.00,"₹1,120.00",₹940.00,398,Regular
+03/09/2026,B2389,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,16,Regular
+03/09/2026,B2390,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,0,Walk-in
+04/09/2026,B2391,Grocery,Atta 5kg,15,₹260.00,"₹3,900.00","₹3,225.00",111,Regular
+04/09/2026,B2392,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",90,Regular
+04/09/2026,B2393,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,137,Walk-in
+04/09/2026,B2394,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",62,Regular
+04/09/2026,B2395,Dairy,Milk 1L,23,₹66.00,"₹1,518.00","₹1,380.00",503,Regular
+04/09/2026,B2396,Snacks,Parle-G,56,₹10.00,₹560.00,₹459.20,1791,Online
+04/09/2026,B2397,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,386,Walk-in
+04/09/2026,B2398,Household,Surf Excel 1kg,1,₹210.00,₹210.00,₹172.00,15,Walk-in
+04/09/2026,B2399,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,0,Online
+05/09/2026,B2400,Grocery,Atta 5kg,16,₹260.00,"₹4,160.00","₹3,440.00",95,Regular
+05/09/2026,B2401,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",86,Regular
+05/09/2026,B2402,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",129,Walk-in
+05/09/2026,B2403,Dairy,Amul Butter 500g,8,₹285.00,"₹2,280.00","₹2,040.00",54,Online
+05/09/2026,B2404,Dairy,Milk 1L,31,₹66.00,"₹2,046.00","₹1,860.00",472,Regular
+05/09/2026,B2405,Snacks,Parle-G,80,₹10.00,₹800.00,₹656.00,1711,Regular
+05/09/2026,B2406,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,371,Online
+05/09/2026,B2407,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,12,Walk-in
+05/09/2026,B2408,Household,Dettol Soap,11,₹48.00,₹528.00,₹418.00,0,Regular
+06/09/2026,B2409,Grocery,Atta 5kg,12,₹260.00,"₹3,120.00","₹2,580.00",83,Regular
+06/09/2026,B2410,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",83,Walk-in
+06/09/2026,B2411,Grocery,Toor Dal 1kg,14,₹165.00,"₹2,310.00","₹1,932.00",115,Regular
+06/09/2026,B2412,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",48,Walk-in
+06/09/2026,B2413,Dairy,Milk 1L,25,₹66.00,"₹1,650.00","₹1,500.00",447,Regular
+06/09/2026,B2414,Snacks,Parle-G,85,₹10.00,₹850.00,₹697.00,1626,Online
+06/09/2026,B2415,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,354,Online
+06/09/2026,B2416,Household,Surf Excel 1kg,7,₹210.00,"₹1,470.00","₹1,204.00",5,Online
+06/09/2026,B2417,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,0,Walk-in
+07/09/2026,B2418,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",76,Online
+07/09/2026,B2419,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",80,Online
+07/09/2026,B2420,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",104,Online
+07/09/2026,B2421,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,45,Regular
+07/09/2026,B2422,Dairy,Milk 1L,25,₹66.00,"₹1,650.00","₹1,500.00",422,Walk-in
+07/09/2026,B2423,Snacks,Parle-G,57,₹10.00,₹570.00,₹467.40,1569,Regular
+07/09/2026,B2424,Snacks,Maggi 4-pack,17,₹56.00,₹952.00,₹799.00,337,Online
+07/09/2026,B2425,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,92,Regular
+07/09/2026,B2426,Household,Dettol Soap,8,₹48.00,₹384.00,₹304.00,0,Online
+08/09/2026,B2427,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",67,Regular
+08/09/2026,B2428,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",75,Regular
+08/09/2026,B2429,Grocery,Toor Dal 1kg,12,₹165.00,"₹1,980.00","₹1,656.00",92,Online
+08/09/2026,B2430,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,42,Regular
+08/09/2026,B2431,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,409,Regular
+08/09/2026,B2432,Snacks,Parle-G,61,₹10.00,₹610.00,₹500.20,1508,Regular
+08/09/2026,B2433,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,321,Regular
+08/09/2026,B2434,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,89,Regular
+08/09/2026,B2435,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,150,Online
+09/09/2026,B2436,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",60,Online
+09/09/2026,B2437,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",72,Walk-in
+09/09/2026,B2438,Grocery,Toor Dal 1kg,4,₹165.00,₹660.00,₹552.00,88,Regular
+09/09/2026,B2439,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",38,Online
+09/09/2026,B2440,Dairy,Milk 1L,27,₹66.00,"₹1,782.00","₹1,620.00",382,Walk-in
+09/09/2026,B2441,Snacks,Parle-G,63,₹10.00,₹630.00,₹516.60,1445,Regular
+09/09/2026,B2442,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,308,Online
+09/09/2026,B2443,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,84,Walk-in
+09/09/2026,B2444,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,146,Online
+10/09/2026,B2445,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",51,Walk-in
+10/09/2026,B2446,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",68,Walk-in
+10/09/2026,B2447,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,82,Online
+10/09/2026,B2448,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,36,Regular
+10/09/2026,B2449,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,370,Online
+10/09/2026,B2450,Snacks,Parle-G,53,₹10.00,₹530.00,₹434.60,1392,Walk-in
+10/09/2026,B2451,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,294,Regular
+10/09/2026,B2452,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,80,Regular
+10/09/2026,B2453,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,143,Regular
+11/09/2026,B2454,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",286,Walk-in
+11/09/2026,B2455,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",66,Online
+11/09/2026,B2456,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,75,Online
+11/09/2026,B2457,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,33,Regular
+11/09/2026,B2458,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",353,Online
+11/09/2026,B2459,Snacks,Parle-G,54,₹10.00,₹540.00,₹442.80,1338,Walk-in
+11/09/2026,B2460,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,278,Regular
+11/09/2026,B2461,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,76,Walk-in
+11/09/2026,B2462,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,139,Walk-in
+12/09/2026,B2463,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",275,Online
+12/09/2026,B2464,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",63,Online
+12/09/2026,B2465,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,68,Regular
+12/09/2026,B2466,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",29,Regular
+12/09/2026,B2467,Dairy,Milk 1L,24,₹66.00,"₹1,584.00","₹1,440.00",329,Walk-in
+12/09/2026,B2468,Snacks,Parle-G,80,₹10.00,₹800.00,₹656.00,1258,Walk-in
+12/09/2026,B2469,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,264,Regular
+12/09/2026,B2470,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",70,Online
+12/09/2026,B2471,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,133,Regular
+13/09/2026,B2472,Grocery,Atta 5kg,9,₹260.00,"₹2,340.00","₹1,935.00",266,Regular
+13/09/2026,B2473,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",56,Regular
+13/09/2026,B2474,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",60,Regular
+13/09/2026,B2475,Dairy,Amul Butter 500g,7,₹285.00,"₹1,995.00","₹1,785.00",22,Regular
+13/09/2026,B2476,Dairy,Milk 1L,12,₹66.00,₹792.00,₹720.00,317,Walk-in
+13/09/2026,B2477,Snacks,Parle-G,73,₹10.00,₹730.00,₹598.60,1185,Regular
+13/09/2026,B2478,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,253,Walk-in
+13/09/2026,B2479,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,66,Regular
+13/09/2026,B2480,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,128,Regular
+14/09/2026,B2481,Grocery,Atta 5kg,14,₹260.00,"₹3,640.00","₹3,010.00",252,Online
+14/09/2026,B2482,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",52,Walk-in
+14/09/2026,B2483,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",51,Walk-in
+14/09/2026,B2484,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,20,Regular
+14/09/2026,B2485,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",299,Regular
+14/09/2026,B2486,Snacks,Parle-G,61,₹10.00,₹610.00,₹500.20,1124,Regular
+14/09/2026,B2487,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,241,Walk-in
+14/09/2026,B2488,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,61,Regular
+14/09/2026,B2489,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,122,Online
+15/09/2026,B2490,Grocery,Atta 5kg,4,₹260.00,"₹1,040.00",₹860.00,248,Online
+15/09/2026,B2491,Grocery,Basmati Rice 5kg,7,₹610.00,"₹4,270.00","₹3,640.00",45,Walk-in
+15/09/2026,B2492,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,48,Regular
+15/09/2026,B2493,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,18,Regular
+15/09/2026,B2494,Dairy,Milk 1L,26,₹66.00,"₹1,716.00","₹1,560.00",273,Online
+15/09/2026,B2495,Snacks,Parle-G,55,₹10.00,₹550.00,₹451.00,1069,Regular
+15/09/2026,B2496,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,228,Regular
+15/09/2026,B2497,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,59,Online
+15/09/2026,B2498,Household,Dettol Soap,11,₹48.00,₹528.00,₹418.00,111,Online
+16/09/2026,B2499,Grocery,Atta 5kg,3,₹260.00,₹780.00,₹645.00,245,Online
+16/09/2026,B2500,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",42,Walk-in
+16/09/2026,B2501,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,42,Regular
+16/09/2026,B2502,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,16,Regular
+16/09/2026,B2503,Dairy,Milk 1L,11,₹66.00,₹726.00,₹660.00,262,Online
+16/09/2026,B2504,Snacks,Parle-G,48,₹10.00,₹480.00,₹393.60,1021,Regular
+16/09/2026,B2505,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,213,Online
+16/09/2026,B2506,Household,Surf Excel 1kg,6,₹210.00,"₹1,260.00","₹1,032.00",53,Walk-in
+16/09/2026,B2507,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,106,Walk-in
+17/09/2026,B2508,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",235,Online
+17/09/2026,B2509,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",38,Regular
+17/09/2026,B2510,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,247,Walk-in
+17/09/2026,B2511,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,13,Regular
+17/09/2026,B2512,Dairy,Milk 1L,22,₹66.00,"₹1,452.00","₹1,320.00",240,Regular
+17/09/2026,B2513,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,959,Regular
+17/09/2026,B2514,Snacks,Maggi 4-pack,4,₹56.00,₹224.00,₹188.00,209,Walk-in
+17/09/2026,B2515,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,51,Online
+17/09/2026,B2516,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,101,Regular
+18/09/2026,B2517,Grocery,Atta 5kg,7,₹260.00,"₹1,820.00","₹1,505.00",228,Regular
+18/09/2026,B2518,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",34,Regular
+18/09/2026,B2519,Grocery,Toor Dal 1kg,5,₹165.00,₹825.00,₹690.00,242,Online
+18/09/2026,B2520,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,118,Walk-in
+18/09/2026,B2521,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",222,Walk-in
+18/09/2026,B2522,Snacks,Parle-G,52,₹10.00,₹520.00,₹426.40,907,Online
+18/09/2026,B2523,Snacks,Maggi 4-pack,6,₹56.00,₹336.00,₹282.00,203,Walk-in
+18/09/2026,B2524,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,49,Regular
+18/09/2026,B2525,Household,Dettol Soap,1,₹48.00,₹48.00,₹38.00,100,Online
+19/09/2026,B2526,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",220,Regular
+19/09/2026,B2527,Grocery,Basmati Rice 5kg,9,₹610.00,"₹5,490.00","₹4,680.00",25,Regular
+19/09/2026,B2528,Grocery,Toor Dal 1kg,10,₹165.00,"₹1,650.00","₹1,380.00",232,Regular
+19/09/2026,B2529,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,115,Regular
+19/09/2026,B2530,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",203,Walk-in
+19/09/2026,B2531,Snacks,Parle-G,72,₹10.00,₹720.00,₹590.40,835,Walk-in
+19/09/2026,B2532,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,192,Online
+19/09/2026,B2533,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,46,Regular
+19/09/2026,B2534,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,95,Online
+20/09/2026,B2535,Grocery,Atta 5kg,3,₹260.00,₹780.00,₹645.00,217,Regular
+20/09/2026,B2536,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",19,Regular
+20/09/2026,B2537,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",224,Walk-in
+20/09/2026,B2538,Dairy,Amul Butter 500g,6,₹285.00,"₹1,710.00","₹1,530.00",109,Online
+20/09/2026,B2539,Dairy,Milk 1L,27,₹66.00,"₹1,782.00","₹1,620.00",176,Walk-in
+20/09/2026,B2540,Snacks,Parle-G,61,₹10.00,₹610.00,₹500.20,774,Regular
+20/09/2026,B2541,Snacks,Maggi 4-pack,14,₹56.00,₹784.00,₹658.00,178,Walk-in
+20/09/2026,B2542,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,43,Walk-in
+20/09/2026,B2543,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,91,Regular
+21/09/2026,B2544,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",207,Regular
+21/09/2026,B2545,Grocery,Basmati Rice 5kg,1,₹610.00,₹610.00,₹520.00,150,Regular
+21/09/2026,B2546,Grocery,Toor Dal 1kg,8,₹165.00,"₹1,320.00","₹1,104.00",216,Online
+21/09/2026,B2547,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",105,Regular
+21/09/2026,B2548,Dairy,Milk 1L,10,₹66.00,₹660.00,₹600.00,166,Regular
+21/09/2026,B2549,Snacks,Parle-G,54,₹10.00,₹540.00,₹442.80,720,Online
+21/09/2026,B2550,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,170,Regular
+21/09/2026,B2551,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,41,Regular
+21/09/2026,B2552,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,88,Regular
+22/09/2026,B2553,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",201,Regular
+22/09/2026,B2554,Grocery,Basmati Rice 5kg,5,₹610.00,"₹3,050.00","₹2,600.00",145,Walk-in
+22/09/2026,B2555,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,213,Walk-in
+22/09/2026,B2556,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,102,Online
+22/09/2026,B2557,Dairy,Milk 1L,11,₹66.00,₹726.00,₹660.00,155,Regular
+22/09/2026,B2558,Snacks,Parle-G,50,₹10.00,₹500.00,₹410.00,670,Online
+22/09/2026,B2559,Snacks,Maggi 4-pack,4,₹56.00,₹224.00,₹188.00,166,Regular
+22/09/2026,B2560,Household,Surf Excel 1kg,4,₹210.00,₹840.00,₹688.00,37,Walk-in
+22/09/2026,B2561,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,84,Regular
+23/09/2026,B2562,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",190,Online
+23/09/2026,B2563,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",142,Regular
+23/09/2026,B2564,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,206,Regular
+23/09/2026,B2565,Dairy,Amul Butter 500g,4,₹285.00,"₹1,140.00","₹1,020.00",98,Walk-in
+23/09/2026,B2566,Dairy,Milk 1L,14,₹66.00,₹924.00,₹840.00,141,Online
+23/09/2026,B2567,Snacks,Parle-G,52,₹10.00,₹520.00,₹426.40,618,Regular
+23/09/2026,B2568,Snacks,Maggi 4-pack,15,₹56.00,₹840.00,₹705.00,151,Online
+23/09/2026,B2569,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,34,Regular
+23/09/2026,B2570,Household,Dettol Soap,2,₹48.00,₹96.00,₹76.00,82,Walk-in
+24/09/2026,B2571,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",184,Regular
+24/09/2026,B2572,Grocery,Basmati Rice 5kg,2,₹610.00,"₹1,220.00","₹1,040.00",140,Regular
+24/09/2026,B2573,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,199,Regular
+24/09/2026,B2574,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,97,Regular
+24/09/2026,B2575,Dairy,Milk 1L,14,₹66.00,₹924.00,₹840.00,127,Online
+24/09/2026,B2576,Snacks,Parle-G,50,₹10.00,₹500.00,₹410.00,568,Online
+24/09/2026,B2577,Snacks,Maggi 4-pack,11,₹56.00,₹616.00,₹517.00,140,Regular
+24/09/2026,B2578,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,78,Walk-in
+25/09/2026,B2579,Grocery,Atta 5kg,8,₹260.00,"₹2,080.00","₹1,720.00",176,Online
+25/09/2026,B2580,Grocery,Basmati Rice 5kg,6,₹610.00,"₹3,660.00","₹3,120.00",134,Walk-in
+25/09/2026,B2581,Grocery,Toor Dal 1kg,7,₹165.00,"₹1,155.00",₹966.00,192,Regular
+25/09/2026,B2582,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,94,Walk-in
+25/09/2026,B2583,Dairy,Milk 1L,15,₹66.00,₹990.00,₹900.00,112,Regular
+25/09/2026,B2584,Snacks,Parle-G,46,₹10.00,₹460.00,₹377.20,522,Online
+25/09/2026,B2585,Snacks,Maggi 4-pack,9,₹56.00,₹504.00,₹423.00,131,Regular
+25/09/2026,B2586,Household,Surf Excel 1kg,5,₹210.00,"₹1,050.00",₹860.00,29,Regular
+25/09/2026,B2587,Household,Dettol Soap,5,₹48.00,₹240.00,₹190.00,73,Regular
+26/09/2026,B2588,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",166,Regular
+26/09/2026,B2589,Grocery,Basmati Rice 5kg,8,₹610.00,"₹4,880.00","₹4,160.00",126,Walk-in
+26/09/2026,B2590,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",181,Walk-in
+26/09/2026,B2591,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",89,Regular
+26/09/2026,B2592,Dairy,Milk 1L,13,₹66.00,₹858.00,₹780.00,639,Regular
+26/09/2026,B2593,Snacks,Parle-G,52,₹10.00,₹520.00,₹426.40,470,Walk-in
+26/09/2026,B2594,Snacks,Maggi 4-pack,16,₹56.00,₹896.00,₹752.00,115,Regular
+26/09/2026,B2595,Household,Surf Excel 1kg,7,₹210.00,"₹1,470.00","₹1,204.00",22,Online
+26/09/2026,B2596,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,70,Online
+27/09/2026,B2597,Grocery,Atta 5kg,10,₹260.00,"₹2,600.00","₹2,150.00",156,Regular
+27/09/2026,B2598,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",122,Walk-in
+27/09/2026,B2599,Grocery,Toor Dal 1kg,11,₹165.00,"₹1,815.00","₹1,518.00",170,Regular
+27/09/2026,B2600,Dairy,Amul Butter 500g,5,₹285.00,"₹1,425.00","₹1,275.00",84,Regular
+27/09/2026,B2601,Dairy,Milk 1L,17,₹66.00,"₹1,122.00","₹1,020.00",622,Walk-in
+27/09/2026,B2602,Snacks,Parle-G,79,₹10.00,₹790.00,₹647.80,391,Regular
+27/09/2026,B2603,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,102,Walk-in
+27/09/2026,B2604,Household,Surf Excel 1kg,3,₹210.00,₹630.00,₹516.00,19,Online
+27/09/2026,B2605,Household,Dettol Soap,6,₹48.00,₹288.00,₹228.00,64,Regular
+28/09/2026,B2606,Grocery,Atta 5kg,6,₹260.00,"₹1,560.00","₹1,290.00",150,Regular
+28/09/2026,B2607,Grocery,Basmati Rice 5kg,4,₹610.00,"₹2,440.00","₹2,080.00",118,Walk-in
+28/09/2026,B2608,Grocery,Toor Dal 1kg,3,₹165.00,₹495.00,₹414.00,4,Regular
+28/09/2026,B2609,Dairy,Amul Butter 500g,2,₹285.00,₹570.00,₹510.00,82,Regular
+28/09/2026,B2610,Dairy,Milk 1L,19,₹66.00,"₹1,254.00","₹1,140.00",603,Regular
+28/09/2026,B2611,Snacks,Parle-G,62,₹10.00,₹620.00,₹508.40,329,Regular
+28/09/2026,B2612,Snacks,Maggi 4-pack,12,₹56.00,₹672.00,₹564.00,90,Regular
+28/09/2026,B2613,Household,Dettol Soap,4,₹48.00,₹192.00,₹152.00,60,Regular
+29/09/2026,B2614,Grocery,Atta 5kg,5,₹260.00,"₹1,300.00","₹1,075.00",145,Regular
+29/09/2026,B2615,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",115,Online
+29/09/2026,B2616,Grocery,Toor Dal 1kg,6,₹165.00,₹990.00,₹828.00,4,Online
+29/09/2026,B2617,Dairy,Amul Butter 500g,1,₹285.00,₹285.00,₹255.00,81,Regular
+29/09/2026,B2618,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",585,Regular
+29/09/2026,B2619,Snacks,Parle-G,49,₹10.00,₹490.00,₹401.80,280,Regular
+29/09/2026,B2620,Snacks,Maggi 4-pack,8,₹56.00,₹448.00,₹376.00,82,Regular
+29/09/2026,B2621,Household,Dettol Soap,3,₹48.00,₹144.00,₹114.00,57,Online
+30/09/2026,B2622,Grocery,Atta 5kg,11,₹260.00,"₹2,860.00","₹2,365.00",134,Regular
+30/09/2026,B2623,Grocery,Basmati Rice 5kg,3,₹610.00,"₹1,830.00","₹1,560.00",112,Online
+30/09/2026,B2624,Grocery,Toor Dal 1kg,9,₹165.00,"₹1,485.00","₹1,242.00",4,Regular
+30/09/2026,B2625,Dairy,Amul Butter 500g,3,₹285.00,₹855.00,₹765.00,78,Online
+30/09/2026,B2626,Dairy,Milk 1L,18,₹66.00,"₹1,188.00","₹1,080.00",567,Regular
+30/09/2026,B2627,Snacks,Parle-G,45,₹10.00,₹450.00,₹369.00,235,Regular
+30/09/2026,B2628,Snacks,Maggi 4-pack,13,₹56.00,₹728.00,₹611.00,429,Regular
+30/09/2026,B2629,Household,Surf Excel 1kg,2,₹210.00,₹420.00,₹344.00,17,Online
+30/09/2026,B2630,Household,Dettol Soap,1,₹48.00,₹48.00,₹38.00,56,Regular
